@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "envirocraft:block/wind_slab"
+    },
+    "type=top": {
+      "model": "envirocraft:block/wind_slab_top"
+    },
+    "type=double": {
+      "model": "envirocraft:block/wind_slab_full"
+    }
+  }
+}

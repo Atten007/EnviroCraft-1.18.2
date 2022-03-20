@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "envirocraft:blocks/enviro_ore_block",
+    "particle": "envirocraft:blocks/enviro_ore_block"
+  }
+}

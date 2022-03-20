@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "envirocraft:blocks/energywood_log_side",
+    "particle": "envirocraft:blocks/energywood_log_side"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "envirocraft:wind_dust"
+    },
+    "2": {
+      "item": "envirocraft:wind_dust"
+    },
+    "3": {
+      "item": "envirocraft:wind_dust"
+    },
+    "5": {
+      "item": "envirocraft:wind_dust"
+    }
+  },
+  "result": {
+    "item": "envirocraft:wind_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "envirocraft:blocks/envirodirtwithgem",
+    "up": "envirocraft:blocks/envirodirtwithgem",
+    "north": "envirocraft:blocks/envirodirtwithgem",
+    "east": "envirocraft:blocks/envirodirtwithgem",
+    "south": "envirocraft:blocks/envirodirtwithgem",
+    "west": "envirocraft:blocks/envirodirtwithgem",
+    "particle": "envirocraft:blocks/envirodirtwithgem"
+  }
+}

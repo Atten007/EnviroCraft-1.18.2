@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "envirocraft:block/ocean_slab"
+    },
+    "type=top": {
+      "model": "envirocraft:block/ocean_slab_top"
+    },
+    "type=double": {
+      "model": "envirocraft:block/ocean_slab_full"
+    }
+  }
+}

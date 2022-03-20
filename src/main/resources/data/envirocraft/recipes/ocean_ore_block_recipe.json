@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "envirocraft:ocean_ingot"
+    },
+    "1": {
+      "item": "envirocraft:ocean_ingot"
+    },
+    "2": {
+      "item": "envirocraft:ocean_ingot"
+    },
+    "3": {
+      "item": "envirocraft:ocean_ingot"
+    },
+    "4": {
+      "item": "envirocraft:ocean_ingot"
+    },
+    "5": {
+      "item": "envirocraft:ocean_ingot"
+    },
+    "6": {
+      "item": "envirocraft:ocean_ingot"
+    },
+    "7": {
+      "item": "envirocraft:ocean_ingot"
+    },
+    "8": {
+      "item": "envirocraft:ocean_ingot"
+    }
+  },
+  "result": {
+    "item": "envirocraft:ocean_block",
+    "count": 1
+  }
+}

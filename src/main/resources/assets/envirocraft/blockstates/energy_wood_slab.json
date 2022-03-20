@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "envirocraft:block/energy_wood_slab"
+    },
+    "type=top": {
+      "model": "envirocraft:block/energy_wood_slab_top"
+    },
+    "type=double": {
+      "model": "envirocraft:block/energy_wood_slab_full"
+    }
+  }
+}

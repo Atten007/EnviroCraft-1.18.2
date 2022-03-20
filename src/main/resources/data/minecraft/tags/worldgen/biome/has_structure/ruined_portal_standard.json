@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "envirocraft:enviro_biome",
+    "envirocraft:enviro_hills",
+    "envirocraft:enviro_forest",
+    "envirocraft:enviro_savanna",
+    "envirocraft:enviro_birch_forest",
+    "envirocraft:enviro_flower_forest",
+    "envirocraft:enviro_flower_forest_hills",
+    "envirocraft:enviro_flower_hills",
+    "envirocraft:enviro_flower",
+    "envirocraft:enviro_wooded"
+  ]
+}

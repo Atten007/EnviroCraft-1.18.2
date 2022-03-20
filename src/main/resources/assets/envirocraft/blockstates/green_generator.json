@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "envirocraft:block/green_generator"
+    }
+  }
+}

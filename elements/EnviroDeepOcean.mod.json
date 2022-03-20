@@ -1,0 +1,94 @@
+{
+  "_fv": 25,
+  "_type": "biome",
+  "definition": {
+    "name": "Enviro Ocean",
+    "groundBlock": {
+      "value": "CUSTOM:EnviroFluid"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:EnviroFluid"
+    },
+    "ambientSound": {
+      "value": "music.creative"
+    },
+    "additionsSound": {
+      "value": "ambient.nether_wastes.additions"
+    },
+    "music": {
+      "value": "ambient.underwater.loop"
+    },
+    "moodSound": {
+      "value": "block.amethyst_cluster.break"
+    },
+    "moodSoundDelay": 9000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.5,
+    "biomeCategory": "OCEAN",
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "baseHeight": 0.001,
+    "heightVariation": 0.0,
+    "biomeType": "WARM",
+    "spawnBiome": false,
+    "biomeWeight": 2,
+    "biomeDictionaryTypes": [
+      "WATER",
+      "OCEAN"
+    ],
+    "grassPerChunk": 4,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 4,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 1,
+    "vanillaTreeType": "Default",
+    "treeType": 0,
+    "minHeight": 7,
+    "treeStem": {
+      "value": ""
+    },
+    "treeBranch": {
+      "value": ""
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": true,
+    "spawnShipwreck": true,
+    "spawnShipwreckBeached": true,
+    "spawnBuriedTreasure": true,
+    "oceanRuinType": "COLD",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "NONE",
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "FrozenTopLayer"
+    ],
+    "spawnEntries": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "envirocraft:blocks/ocean_log_top",
+    "up": "envirocraft:blocks/ocean_log_top",
+    "north": "envirocraft:blocks/ocean_log_side",
+    "east": "envirocraft:blocks/ocean_log_side",
+    "south": "envirocraft:blocks/ocean_log_side",
+    "west": "envirocraft:blocks/ocean_log_side",
+    "particle": "envirocraft:blocks/ocean_log_top"
+  }
+}

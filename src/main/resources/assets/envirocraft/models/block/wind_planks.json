@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "envirocraft:blocks/wind_planks",
+    "particle": "envirocraft:blocks/wind_planks"
+  }
+}

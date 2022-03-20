@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:ocean_log"
+    }
+  ],
+  "result": {
+    "item": "envirocraft:ocean_planks",
+    "count": 4
+  }
+}

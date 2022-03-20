@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:envirowood_log"
+    }
+  ],
+  "result": {
+    "item": "envirocraft:enviro_wood_planks",
+    "count": 4
+  }
+}

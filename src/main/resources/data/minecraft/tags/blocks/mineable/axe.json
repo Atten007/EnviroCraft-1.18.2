@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "envirocraft:enviro_wood_wood",
+    "envirocraft:enviro_wood_log",
+    "envirocraft:enviro_wood_planks",
+    "envirocraft:ocean_wood",
+    "envirocraft:ocean_log",
+    "envirocraft:ocean_planks",
+    "envirocraft:wind_wood",
+    "envirocraft:wind_log",
+    "envirocraft:wind_planks",
+    "envirocraft:energy_wood_wood",
+    "envirocraft:energy_wood_log",
+    "envirocraft:energy_wood_planks"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "envirocraft:blocks/oceangenerator",
+    "up": "envirocraft:blocks/oceangenerator",
+    "north": "envirocraft:blocks/oceangenerator",
+    "east": "envirocraft:blocks/oceangenerator",
+    "south": "envirocraft:blocks/oceangenerator",
+    "west": "envirocraft:blocks/oceangenerator",
+    "particle": "envirocraft:blocks/oceangenerator"
+  }
+}

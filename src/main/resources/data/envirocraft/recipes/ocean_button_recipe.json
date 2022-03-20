@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "envirocraft:ocean_planks"
+    }
+  ],
+  "result": {
+    "item": "envirocraft:ocean_button",
+    "count": 1
+  }
+}

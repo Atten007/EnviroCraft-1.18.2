@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "envirocraft:blocks/enviroblockblue",
+    "up": "envirocraft:blocks/enviroblockblue",
+    "north": "envirocraft:blocks/enviroblockblue",
+    "east": "envirocraft:blocks/enviroblockblue",
+    "south": "envirocraft:blocks/enviroblockblue",
+    "west": "envirocraft:blocks/enviroblockblue",
+    "particle": "envirocraft:blocks/enviroblockblue"
+  }
+}

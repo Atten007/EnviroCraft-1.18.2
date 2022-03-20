@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "envirocraft:enviro"
+    },
+    "1": {
+      "item": "envirocraft:enviro"
+    },
+    "2": {
+      "item": "envirocraft:enviro"
+    },
+    "3": {
+      "item": "envirocraft:enviro"
+    },
+    "5": {
+      "item": "envirocraft:enviro"
+    }
+  },
+  "result": {
+    "item": "envirocraft:enviro_armor_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "_fv": 25,
+  "_type": "structure",
+  "definition": {
+    "structure": "windturbine",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 100000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface",
+      "CUSTOM:EnviroDim"
+    ],
+    "restrictionBlocks": [],
+    "restrictionBiomes": [
+      {
+        "value": "bamboo_jungle_hills"
+      },
+      {
+        "value": "birch_forest_hills"
+      },
+      {
+        "value": "mutated_roofed_forest"
+      },
+      {
+        "value": "desert_hills"
+      },
+      {
+        "value": "forest_hills"
+      },
+      {
+        "value": "jungle_hills"
+      },
+      {
+        "value": "mutated_birch_forest_hills"
+      },
+      {
+        "value": "redwood_taiga_hills"
+      },
+      {
+        "value": "mutated_redwood_taiga_hills"
+      },
+      {
+        "value": "taiga_cold_hills"
+      },
+      {
+        "value": "mutated_swampland"
+      },
+      {
+        "value": "taiga_hills"
+      },
+      {
+        "value": "mutated_extreme_hills"
+      },
+      {
+        "value": "mountains"
+      },
+      {
+        "value": "extreme_hills_with_trees"
+      },
+      {
+        "value": "mutated_extreme_hills"
+      },
+      {
+        "value": "mountains"
+      },
+      {
+        "value": "mutated_savanna"
+      },
+      {
+        "value": "CUSTOM:EnviroBigTaigaHills"
+      },
+      {
+        "value": "CUSTOM:EnviroBirchForestHills"
+      },
+      {
+        "value": "CUSTOM:EnviroFlowerForestHills"
+      },
+      {
+        "value": "CUSTOM:EnviroFlowerHills"
+      },
+      {
+        "value": "CUSTOM:EnviroForestHills"
+      },
+      {
+        "value": "CUSTOM:EnviroHills"
+      },
+      {
+        "value": "CUSTOM:EnviroIcyHills"
+      },
+      {
+        "value": "CUSTOM:EnviroJungleHills"
+      },
+      {
+        "value": "CUSTOM:EnviroLandsForestHills"
+      },
+      {
+        "value": "CUSTOM:EnviroLandsHills"
+      },
+      {
+        "value": "CUSTOM:EnviroPineTaigaHills"
+      },
+      {
+        "value": "CUSTOM:EnviroSwampHills"
+      },
+      {
+        "value": "CUSTOM:EnviroTaigaHills"
+      },
+      {
+        "value": "CUSTOM:EnviroTundraHills"
+      },
+      {
+        "value": "CUSTOM:EnviroWoodedHills"
+      },
+      {
+        "value": "bamboo_jungle_hills"
+      },
+      {
+        "value": "birch_forest_hills"
+      },
+      {
+        "value": "mutated_roofed_forest"
+      },
+      {
+        "value": "desert_hills"
+      },
+      {
+        "value": "forest_hills"
+      },
+      {
+        "value": "jungle_hills"
+      },
+      {
+        "value": "mutated_birch_forest_hills"
+      },
+      {
+        "value": "redwood_taiga_hills"
+      },
+      {
+        "value": "mutated_redwood_taiga_hills"
+      },
+      {
+        "value": "taiga_cold_hills"
+      },
+      {
+        "value": "mutated_swampland"
+      },
+      {
+        "value": "taiga_hills"
+      },
+      {
+        "value": "mutated_extreme_hills"
+      },
+      {
+        "value": "mountains"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

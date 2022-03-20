@@ -1,0 +1,113 @@
+{
+  "_fv": 25,
+  "_type": "biome",
+  "definition": {
+    "name": "Enviro Icy",
+    "groundBlock": {
+      "value": "CUSTOM:EnviroIce"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:EnviroIce"
+    },
+    "ambientSound": {
+      "value": "ambient.cave"
+    },
+    "additionsSound": {
+      "value": "ambient.soul_sand_valley.loop"
+    },
+    "music": {
+      "value": "music.creative"
+    },
+    "moodSound": {
+      "value": "ambient.underwater.exit"
+    },
+    "moodSoundDelay": 9000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "WATER_WAKE"
+    },
+    "particlesProbability": 0.5,
+    "biomeCategory": "ICY",
+    "rainingPossibility": 1.0,
+    "temperature": -1.0,
+    "baseHeight": 2.0,
+    "heightVariation": 0.751,
+    "biomeType": "ICY",
+    "spawnBiome": false,
+    "biomeWeight": 4,
+    "biomeDictionaryTypes": [
+      "SNOWY"
+    ],
+    "grassPerChunk": 0,
+    "seagrassPerChunk": 1,
+    "flowersPerChunk": 5,
+    "mushroomsPerChunk": 1,
+    "bigMushroomsChunk": 1,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 2,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 0,
+    "vanillaTreeType": "Default",
+    "treeType": 1,
+    "minHeight": 3,
+    "treeStem": {
+      "value": "CUSTOM:EnviroWoodLog"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:EnviroWoodLeaves"
+    },
+    "treeVines": {
+      "value": "Blocks.VINE"
+    },
+    "treeFruits": {
+      "value": "Blocks.SWEET_BERRY_BUSH"
+    },
+    "spawnStronghold": true,
+    "spawnMineshaft": true,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": true,
+    "villageType": "snowy",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": true,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": true,
+    "oceanRuinType": "COLD",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "MOUNTAIN",
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "FrozenTopLayer",
+      "Icebergs"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "CUSTOM:EnviroPig"
+        },
+        "minGroup": 2,
+        "maxGroup": 10,
+        "weight": 15,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "CUSTOM:EnviroCraftMonster"
+        },
+        "minGroup": 3,
+        "maxGroup": 9,
+        "weight": 15,
+        "spawnType": "creature"
+      }
+    ]
+  }
+}

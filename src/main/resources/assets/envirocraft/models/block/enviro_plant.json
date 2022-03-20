@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "envirocraft:blocks/enviroplant",
+    "particle": "envirocraft:blocks/enviroplant"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "_fv": 25,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:EnviroBigTaiga"
+      },
+      {
+        "value": "CUSTOM:EnviroBigTaigaHills"
+      },
+      {
+        "value": "CUSTOM:EnviroBiome"
+      },
+      {
+        "value": "CUSTOM:EnviroBirchForest"
+      },
+      {
+        "value": "CUSTOM:EnviroBirchForestHills"
+      },
+      {
+        "value": "CUSTOM:EnviroDeepOcean"
+      },
+      {
+        "value": "CUSTOM:EnviroDesert"
+      },
+      {
+        "value": "CUSTOM:EnviroFlower"
+      },
+      {
+        "value": "CUSTOM:EnviroFlowerForest"
+      },
+      {
+        "value": "CUSTOM:EnviroFlowerForestHills"
+      },
+      {
+        "value": "CUSTOM:EnviroFlowerHills"
+      },
+      {
+        "value": "CUSTOM:EnviroForest"
+      },
+      {
+        "value": "CUSTOM:EnviroForestHills"
+      },
+      {
+        "value": "CUSTOM:EnviroHills"
+      },
+      {
+        "value": "CUSTOM:EnviroIcy"
+      },
+      {
+        "value": "CUSTOM:EnviroIcyHills"
+      },
+      {
+        "value": "CUSTOM:EnviroJungle"
+      },
+      {
+        "value": "CUSTOM:EnviroJungleHills"
+      },
+      {
+        "value": "CUSTOM:EnviroLands"
+      },
+      {
+        "value": "CUSTOM:EnviroLandsForest"
+      },
+      {
+        "value": "CUSTOM:EnviroLandsForestHills"
+      },
+      {
+        "value": "CUSTOM:EnviroLandsHills"
+      },
+      {
+        "value": "CUSTOM:EnviroMountains"
+      },
+      {
+        "value": "CUSTOM:EnviroOcean"
+      },
+      {
+        "value": "CUSTOM:EnviroPineTaiga"
+      },
+      {
+        "value": "CUSTOM:EnviroPineTaigaHills"
+      },
+      {
+        "value": "CUSTOM:EnviroSavanna"
+      },
+      {
+        "value": "CUSTOM:EnviroSwamp"
+      },
+      {
+        "value": "CUSTOM:EnviroSwampHills"
+      },
+      {
+        "value": "CUSTOM:EnviroTaiga"
+      },
+      {
+        "value": "CUSTOM:EnviroTaigaHills"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:EnviroGrass"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:EnviroFluid"
+    },
+    "airColor": {
+      "value": -16737793,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": true,
+    "isDark": true,
+    "doesWaterVaporize": true,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "portalFrame": {
+      "value": "CUSTOM:EnviroPortalFrame"
+    },
+    "portalParticles": {
+      "value": "SPIT"
+    },
+    "portalLuminance": 2,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Enviro Dim Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:Envirocraft"
+    },
+    "texture": "envirodimportaligniter",
+    "portalTexture": "envirocraftportalblock",
+    "enablePortal": true
+  }
+}

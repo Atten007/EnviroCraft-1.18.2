@@ -1,0 +1,12 @@
+{
+  "_fv": 25,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Logic",
+    "displayName": "Spawn Enviro Structures",
+    "description": "When enabled, all EnviroCraft-structures will spawn.",
+    "category": "SPAWNING",
+    "defaultValueLogic": true,
+    "defaultValueNumber": 0
+  }
+}

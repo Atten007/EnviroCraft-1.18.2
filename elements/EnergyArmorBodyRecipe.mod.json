@@ -1,0 +1,46 @@
+{
+  "_fv": 25,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Energy"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Energy"
+      },
+      {
+        "value": "CUSTOM:Energy"
+      },
+      {
+        "value": "CUSTOM:Energy"
+      },
+      {
+        "value": "CUSTOM:Energy"
+      },
+      {
+        "value": "CUSTOM:Energy"
+      },
+      {
+        "value": "CUSTOM:Energy"
+      },
+      {
+        "value": "CUSTOM:Energy"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EnergyArmor.body"
+    },
+    "name": "energy_armor_body_recipe",
+    "namespace": "mod"
+  }
+}

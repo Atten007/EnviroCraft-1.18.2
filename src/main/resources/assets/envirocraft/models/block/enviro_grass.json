@@ -1,0 +1,10 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "envirocraft:blocks/envirograssbottom",
+    "top": "envirocraft:blocks/envirograsstop",
+    "side": "envirocraft:blocks/envirograssside",
+    "overlay": "envirocraft:blocks/envirograssside",
+    "particle": "envirocraft:blocks/envirograssbottom"
+  }
+}

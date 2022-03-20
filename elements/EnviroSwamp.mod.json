@@ -1,0 +1,112 @@
+{
+  "_fv": 25,
+  "_type": "biome",
+  "definition": {
+    "name": "Enviro Swamp",
+    "groundBlock": {
+      "value": "CUSTOM:EnviroGrass"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:EnviroBlock"
+    },
+    "ambientSound": {
+      "value": "ambient.cave"
+    },
+    "additionsSound": {
+      "value": "ambient.underwater.loop"
+    },
+    "music": {
+      "value": "music.creative"
+    },
+    "moodSound": {
+      "value": "entity.lightning.thunder"
+    },
+    "moodSoundDelay": 9000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "ASH"
+    },
+    "particlesProbability": 0.5,
+    "biomeCategory": "SWAMP",
+    "rainingPossibility": 0.5,
+    "temperature": 0.96,
+    "baseHeight": 0.95,
+    "heightVariation": 0.351,
+    "biomeType": "WARM",
+    "spawnBiome": false,
+    "biomeWeight": 4,
+    "biomeDictionaryTypes": [
+      "SWAMP"
+    ],
+    "grassPerChunk": 3,
+    "seagrassPerChunk": 1,
+    "flowersPerChunk": 4,
+    "mushroomsPerChunk": 1,
+    "bigMushroomsChunk": 1,
+    "sandPatchesPerChunk": 2,
+    "gravelPatchesPerChunk": 3,
+    "reedsPerChunk": 1,
+    "cactiPerChunk": 1,
+    "treesPerChunk": 3,
+    "vanillaTreeType": "Default",
+    "treeType": 1,
+    "minHeight": 5,
+    "treeStem": {
+      "value": "CUSTOM:EnviroWoodLog"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:EnviroWoodLeaves"
+    },
+    "treeVines": {
+      "value": "Blocks.COCOA"
+    },
+    "treeFruits": {
+      "value": "Blocks.VINE"
+    },
+    "spawnStronghold": false,
+    "spawnMineshaft": true,
+    "spawnMineshaftMesa": true,
+    "spawnPillagerOutpost": true,
+    "villageType": "plains",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": true,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": true,
+    "oceanRuinType": "COLD",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "SWAMP",
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "FrozenTopLayer"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "CUSTOM:EnviroPig"
+        },
+        "minGroup": 2,
+        "maxGroup": 16,
+        "weight": 10,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "CUSTOM:EnviroCraftMonster"
+        },
+        "minGroup": 2,
+        "maxGroup": 16,
+        "weight": 10,
+        "spawnType": "creature"
+      }
+    ]
+  }
+}

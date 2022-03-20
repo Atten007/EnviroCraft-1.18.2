@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "envirocraft:blocks/solarcell_bottom",
+    "up": "envirocraft:blocks/solarcell",
+    "north": "envirocraft:blocks/solarcell_side",
+    "east": "envirocraft:blocks/solarcell_side",
+    "south": "envirocraft:blocks/solarcell_side",
+    "west": "envirocraft:blocks/solarcell_side",
+    "particle": "envirocraft:blocks/solarcell_bottom"
+  }
+}

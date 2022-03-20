@@ -1,0 +1,3398 @@
+{
+  "mod_elements": [
+    {
+      "name": "SolarCell",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "solar_cell"
+    },
+    {
+      "name": "Envirocraft",
+      "type": "tab",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "envirocraft"
+    },
+    {
+      "name": "Enviro",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro"
+    },
+    {
+      "name": "EnviroOre",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_ore"
+    },
+    {
+      "name": "EnviroBlock",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_block"
+    },
+    {
+      "name": "EnviroOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_ore_block_recipe"
+    },
+    {
+      "name": "EnviroBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_block_ore_recipe"
+    },
+    {
+      "name": "EnviroOreSmelting",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_ore_smelting"
+    },
+    {
+      "name": "EnviroPickaxe",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_pickaxe"
+    },
+    {
+      "name": "EnviroAxe",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_axe"
+    },
+    {
+      "name": "EnviroSword",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_sword"
+    },
+    {
+      "name": "EnviroShovel",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_shovel"
+    },
+    {
+      "name": "EnviroHoe",
+      "type": "tool",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_hoe"
+    },
+    {
+      "name": "EnviroPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_pickaxe_recipe"
+    },
+    {
+      "name": "EnviroAxeRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_axe_recipe"
+    },
+    {
+      "name": "EnviroSwordRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_sword_recipe"
+    },
+    {
+      "name": "EnviroShovelRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_shovel_recipe"
+    },
+    {
+      "name": "EnviroHoeRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_hoe_recipe"
+    },
+    {
+      "name": "EnviroArmor",
+      "type": "armor",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "EnviroArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_armor_helmet_recipe"
+    },
+    {
+      "name": "EnviroArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_armor_body_recipe"
+    },
+    {
+      "name": "EnviroArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_armor_leggings_recipe"
+    },
+    {
+      "name": "EnviroArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_armor_boots_recipe"
+    },
+    {
+      "name": "SolarFuel",
+      "type": "fuel",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "solar_fuel"
+    },
+    {
+      "name": "EnviroTree",
+      "type": "plant",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_tree"
+    },
+    {
+      "name": "WindTurbine",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_turbine"
+    },
+    {
+      "name": "EnviroCraftCom",
+      "type": "command",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_craft_com"
+    },
+    {
+      "name": "EnviroCraftComWennderBefehlAusgefuhrtWird",
+      "type": "procedure",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_craft_com_wennder_befehl_ausgefuhrt_wird",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "SolarCellGUI",
+      "type": "gui",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "solar_cell_gui"
+    },
+    {
+      "name": "SolarCellWert",
+      "type": "procedure",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "solar_cell_wert",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "SolarCellBedingungDerPartikelEntstehung",
+      "type": "procedure",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "solar_cell_bedingung_der_partikel_entstehung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "SolarCellBlockGultigPlatzierungsbedingung",
+      "type": "procedure",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "solar_cell_block_gultig_platzierungsbedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "SolarCellZusatzlicheGenerierungsbedingung",
+      "type": "procedure",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "solar_cell_zusatzliche_generierungsbedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "WindTurbineGUI",
+      "type": "gui",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_turbine_gui"
+    },
+    {
+      "name": "WindTurbineBedingungDerPartikelEntstehung",
+      "type": "procedure",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_turbine_bedingung_der_partikel_entstehung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "WindTurbineBlockGultigPlatzierungsbedingung",
+      "type": "procedure",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_turbine_block_gultig_platzierungsbedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "WindTurbineZusatzlicheGenerierungsbedingung",
+      "type": "procedure",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_turbine_zusatzliche_generierungsbedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "WindTurbineWert",
+      "type": "procedure",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_turbine_wert",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "OceanGenerator",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_generator"
+    },
+    {
+      "name": "OceanGeneratorGUI",
+      "type": "gui",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_generator_gui"
+    },
+    {
+      "name": "OceanGeneratorBlockGultigPlatzierungsbedingung",
+      "type": "procedure",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_generator_block_gultig_platzierungsbedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "OceanGeneratorBedingungDerPartikelEntstehung",
+      "type": "procedure",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_generator_bedingung_der_partikel_entstehung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "OceanGeneratorWert",
+      "type": "procedure",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_generator_wert",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "WindDust",
+      "type": "item",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_dust"
+    },
+    {
+      "name": "WindOre",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_ore"
+    },
+    {
+      "name": "WindBlock",
+      "type": "block",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_block"
+    },
+    {
+      "name": "WindOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_ore_block_recipe"
+    },
+    {
+      "name": "WindBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_block_ore_recipe"
+    },
+    {
+      "name": "WindOreSmelting",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_ore_smelting"
+    },
+    {
+      "name": "WindPickaxe",
+      "type": "tool",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_pickaxe"
+    },
+    {
+      "name": "WindAxe",
+      "type": "tool",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_axe"
+    },
+    {
+      "name": "WindSword",
+      "type": "tool",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_sword"
+    },
+    {
+      "name": "WindShovel",
+      "type": "tool",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_shovel"
+    },
+    {
+      "name": "WindHoe",
+      "type": "tool",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_hoe"
+    },
+    {
+      "name": "WindPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_pickaxe_recipe"
+    },
+    {
+      "name": "WindAxeRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_axe_recipe"
+    },
+    {
+      "name": "WindSwordRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_sword_recipe"
+    },
+    {
+      "name": "WindShovelRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_shovel_recipe"
+    },
+    {
+      "name": "WindHoeRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_hoe_recipe"
+    },
+    {
+      "name": "WindArmor",
+      "type": "armor",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "WindArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_armor_helmet_recipe"
+    },
+    {
+      "name": "WindArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_armor_body_recipe"
+    },
+    {
+      "name": "WindArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_armor_leggings_recipe"
+    },
+    {
+      "name": "WindArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_armor_boots_recipe"
+    },
+    {
+      "name": "OceanIngot",
+      "type": "item",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_ingot"
+    },
+    {
+      "name": "OceanOre",
+      "type": "block",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_ore"
+    },
+    {
+      "name": "OceanBlock",
+      "type": "block",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_block"
+    },
+    {
+      "name": "OceanOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_ore_block_recipe"
+    },
+    {
+      "name": "OceanBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_block_ore_recipe"
+    },
+    {
+      "name": "OceanOreSmelting",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_ore_smelting"
+    },
+    {
+      "name": "OceanPickaxe",
+      "type": "tool",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_pickaxe"
+    },
+    {
+      "name": "OceanAxe",
+      "type": "tool",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_axe"
+    },
+    {
+      "name": "OceanSword",
+      "type": "tool",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_sword"
+    },
+    {
+      "name": "OceanShovel",
+      "type": "tool",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_shovel"
+    },
+    {
+      "name": "OceanHoe",
+      "type": "tool",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_hoe"
+    },
+    {
+      "name": "OceanPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_pickaxe_recipe"
+    },
+    {
+      "name": "OceanAxeRecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_axe_recipe"
+    },
+    {
+      "name": "OceanSwordRecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_sword_recipe"
+    },
+    {
+      "name": "OceanShovelRecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_shovel_recipe"
+    },
+    {
+      "name": "OceanHoeRecipe",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_hoe_recipe"
+    },
+    {
+      "name": "OceanArmor",
+      "type": "armor",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "OceanArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_armor_helmet_recipe"
+    },
+    {
+      "name": "OceanArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_armor_body_recipe"
+    },
+    {
+      "name": "OceanArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_armor_leggings_recipe"
+    },
+    {
+      "name": "OceanArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_armor_boots_recipe"
+    },
+    {
+      "name": "EnviroCraftMonster",
+      "type": "livingentity",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_craft_monster"
+    },
+    {
+      "name": "EnviroCraftMonsterNaturlicheObjektEntstehungsbedingung",
+      "type": "procedure",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_craft_monster_naturliche_objekt_entstehungsbedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "OceanGeneratorZusatzlicheGenerierungsbedingung",
+      "type": "procedure",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_generator_zusatzliche_generierungsbedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "OceanGeneratorRoom",
+      "type": "structure",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_generator_room"
+    },
+    {
+      "name": "WindTurbineBuild",
+      "type": "structure",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_turbine_build"
+    },
+    {
+      "name": "EnviroGrass",
+      "type": "block",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_grass"
+    },
+    {
+      "name": "EnviroFluidZusatzlicheFortsetzungsBedingung",
+      "type": "procedure",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_fluid_zusatzliche_fortsetzungs_bedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroFluid",
+      "type": "fluid",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_fluid",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "EnviroBiome",
+      "type": "biome",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_biome"
+    },
+    {
+      "name": "EnviroDimKannPortalErstellen",
+      "type": "procedure",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_dim_kann_portal_erstellen",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroDimKannDurchPortalReisen",
+      "type": "procedure",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_dim_kann_durch_portal_reisen",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroPortalFrame",
+      "type": "block",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_portal_frame"
+    },
+    {
+      "name": "EnviroCraftPortalBlock",
+      "type": "block",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_craft_portal_block"
+    },
+    {
+      "name": "EnviroDim",
+      "type": "dimension",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_dim",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "EnviroWoodWood",
+      "type": "block",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_wood_wood"
+    },
+    {
+      "name": "EnviroWoodLog",
+      "type": "block",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_wood_log"
+    },
+    {
+      "name": "EnviroWoodPlanks",
+      "type": "block",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_wood_planks"
+    },
+    {
+      "name": "EnviroWoodLeaves",
+      "type": "block",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_wood_leaves"
+    },
+    {
+      "name": "EnviroWoodStairs",
+      "type": "block",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_wood_stairs"
+    },
+    {
+      "name": "EnviroWoodSlab",
+      "type": "block",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_wood_slab"
+    },
+    {
+      "name": "EnviroWoodFence",
+      "type": "block",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_wood_fence"
+    },
+    {
+      "name": "EnviroWoodFenceGate",
+      "type": "block",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_wood_fence_gate"
+    },
+    {
+      "name": "EnviroWoodPressurePlate",
+      "type": "block",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_wood_pressure_plate"
+    },
+    {
+      "name": "EnviroWoodButton",
+      "type": "block",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_wood_button"
+    },
+    {
+      "name": "EnviroWoodItemsTag",
+      "type": "tag",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_wood_items_tag"
+    },
+    {
+      "name": "EnviroWoodWoodRecipe",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_wood_wood_recipe"
+    },
+    {
+      "name": "EnviroWoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_wood_planks_recipe"
+    },
+    {
+      "name": "EnviroWoodStairsRecipe",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_wood_stairs_recipe"
+    },
+    {
+      "name": "EnviroWoodSlabRecipe",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_wood_slab_recipe"
+    },
+    {
+      "name": "EnviroWoodFenceRecipe",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_wood_fence_recipe"
+    },
+    {
+      "name": "EnviroWoodFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_wood_fence_gate_recipe"
+    },
+    {
+      "name": "EnviroWoodPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_wood_pressure_plate_recipe"
+    },
+    {
+      "name": "EnviroWoodButtonRecipe",
+      "type": "recipe",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_wood_button_recipe"
+    },
+    {
+      "name": "EnviroWoodStickRecipe",
+      "type": "recipe",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_wood_stick_recipe"
+    },
+    {
+      "name": "OceanWood",
+      "type": "block",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_wood"
+    },
+    {
+      "name": "OceanLog",
+      "type": "block",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_log"
+    },
+    {
+      "name": "OceanPlanks",
+      "type": "block",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_planks"
+    },
+    {
+      "name": "OceanLeaves",
+      "type": "block",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_leaves"
+    },
+    {
+      "name": "OceanStairs",
+      "type": "block",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_stairs"
+    },
+    {
+      "name": "OceanSlab",
+      "type": "block",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_slab"
+    },
+    {
+      "name": "OceanFence",
+      "type": "block",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_fence"
+    },
+    {
+      "name": "OceanFenceGate",
+      "type": "block",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_fence_gate"
+    },
+    {
+      "name": "OceanPressurePlate",
+      "type": "block",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_pressure_plate"
+    },
+    {
+      "name": "OceanButton",
+      "type": "block",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_button"
+    },
+    {
+      "name": "OceanItemsTag",
+      "type": "tag",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_items_tag"
+    },
+    {
+      "name": "OceanWoodRecipe",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_wood_recipe"
+    },
+    {
+      "name": "OceanPlanksRecipe",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_planks_recipe"
+    },
+    {
+      "name": "OceanStairsRecipe",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_stairs_recipe"
+    },
+    {
+      "name": "OceanSlabRecipe",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_slab_recipe"
+    },
+    {
+      "name": "OceanFenceRecipe",
+      "type": "recipe",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_fence_recipe"
+    },
+    {
+      "name": "OceanFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_fence_gate_recipe"
+    },
+    {
+      "name": "OceanPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_pressure_plate_recipe"
+    },
+    {
+      "name": "OceanButtonRecipe",
+      "type": "recipe",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_button_recipe"
+    },
+    {
+      "name": "OceanStickRecipe",
+      "type": "recipe",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_stick_recipe"
+    },
+    {
+      "name": "WindWood",
+      "type": "block",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_wood"
+    },
+    {
+      "name": "WindLog",
+      "type": "block",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_log"
+    },
+    {
+      "name": "WindPlanks",
+      "type": "block",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_planks"
+    },
+    {
+      "name": "WindLeaves",
+      "type": "block",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_leaves"
+    },
+    {
+      "name": "WindStairs",
+      "type": "block",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_stairs"
+    },
+    {
+      "name": "WindSlab",
+      "type": "block",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_slab"
+    },
+    {
+      "name": "WindFence",
+      "type": "block",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_fence"
+    },
+    {
+      "name": "WindFenceGate",
+      "type": "block",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_fence_gate"
+    },
+    {
+      "name": "WindPressurePlate",
+      "type": "block",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_pressure_plate"
+    },
+    {
+      "name": "WindButton",
+      "type": "block",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_button"
+    },
+    {
+      "name": "WindItemsTag",
+      "type": "tag",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_items_tag"
+    },
+    {
+      "name": "WindWoodRecipe",
+      "type": "recipe",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_wood_recipe"
+    },
+    {
+      "name": "WindPlanksRecipe",
+      "type": "recipe",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_planks_recipe"
+    },
+    {
+      "name": "WindStairsRecipe",
+      "type": "recipe",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_stairs_recipe"
+    },
+    {
+      "name": "WindSlabRecipe",
+      "type": "recipe",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_slab_recipe"
+    },
+    {
+      "name": "WindFenceRecipe",
+      "type": "recipe",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_fence_recipe"
+    },
+    {
+      "name": "WindFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_fence_gate_recipe"
+    },
+    {
+      "name": "WindPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_pressure_plate_recipe"
+    },
+    {
+      "name": "WindButtonRecipe",
+      "type": "recipe",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_button_recipe"
+    },
+    {
+      "name": "WindStickRecipe",
+      "type": "recipe",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_stick_recipe"
+    },
+    {
+      "name": "EnviroPigBedingungDerPartikelEntstehung",
+      "type": "procedure",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_pig_bedingung_der_partikel_entstehung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroPigNaturlicheObjektEntstehungsbedingung",
+      "type": "procedure",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_pig_naturliche_objekt_entstehungsbedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroPig",
+      "type": "livingentity",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_pig"
+    },
+    {
+      "name": "EnviroHills",
+      "type": "biome",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_hills"
+    },
+    {
+      "name": "EnviroForest",
+      "type": "biome",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_forest"
+    },
+    {
+      "name": "EnviroSand",
+      "type": "block",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_sand"
+    },
+    {
+      "name": "EnviroDesert",
+      "type": "biome",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_desert"
+    },
+    {
+      "name": "EnviroForestHills",
+      "type": "biome",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_forest_hills"
+    },
+    {
+      "name": "EnviroStone",
+      "type": "block",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_stone"
+    },
+    {
+      "name": "EnviroIce",
+      "type": "block",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_ice"
+    },
+    {
+      "name": "EnviroIcy",
+      "type": "biome",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_icy"
+    },
+    {
+      "name": "EnviroSwamp",
+      "type": "biome",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_swamp"
+    },
+    {
+      "name": "EnviroSwampHills",
+      "type": "biome",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_swamp_hills"
+    },
+    {
+      "name": "EnviroJungle",
+      "type": "biome",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_jungle"
+    },
+    {
+      "name": "EnviroJungleHills",
+      "type": "biome",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_jungle_hills"
+    },
+    {
+      "name": "EnviroMountains",
+      "type": "biome",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_mountains"
+    },
+    {
+      "name": "EnviroSavanna",
+      "type": "biome",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_savanna"
+    },
+    {
+      "name": "EnviroTaiga",
+      "type": "biome",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_taiga"
+    },
+    {
+      "name": "PowerBoxBlockGultigPlatzierungsbedingung",
+      "type": "procedure",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "power_box_block_gultig_platzierungsbedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "PowerBoxBedingungDerPartikelEntstehung",
+      "type": "procedure",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "power_box_bedingung_der_partikel_entstehung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "PowerBoxGUI",
+      "type": "gui",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "power_box_gui"
+    },
+    {
+      "name": "PowerBox",
+      "type": "block",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "power_box"
+    },
+    {
+      "name": "EnviroDirt",
+      "type": "block",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_dirt"
+    },
+    {
+      "name": "EnviroBigTaiga",
+      "type": "biome",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_big_taiga"
+    },
+    {
+      "name": "EnviroBigTaigaHills",
+      "type": "biome",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_big_taiga_hills"
+    },
+    {
+      "name": "EnviroIcyHills",
+      "type": "biome",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_icy_hills"
+    },
+    {
+      "name": "EnviroTaigaHills",
+      "type": "biome",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_taiga_hills"
+    },
+    {
+      "name": "EnviroPineTaiga",
+      "type": "biome",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_pine_taiga"
+    },
+    {
+      "name": "EnviroPineTaigaHills",
+      "type": "biome",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_pine_taiga_hills"
+    },
+    {
+      "name": "EnviroBirchForest",
+      "type": "biome",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_birch_forest"
+    },
+    {
+      "name": "EnviroBirchForestHills",
+      "type": "biome",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_birch_forest_hills"
+    },
+    {
+      "name": "EnviroFlowerForest",
+      "type": "biome",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_flower_forest"
+    },
+    {
+      "name": "EnviroFlowerForestHills",
+      "type": "biome",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_flower_forest_hills"
+    },
+    {
+      "name": "EnviroFlowerHills",
+      "type": "biome",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_flower_hills"
+    },
+    {
+      "name": "EnviroLands",
+      "type": "biome",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_lands"
+    },
+    {
+      "name": "EnviroLandsForest",
+      "type": "biome",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_lands_forest"
+    },
+    {
+      "name": "EnviroLandsHills",
+      "type": "biome",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_lands_hills"
+    },
+    {
+      "name": "EnviroLandsForestHills",
+      "type": "biome",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_lands_forest_hills"
+    },
+    {
+      "name": "EnviroVines",
+      "type": "plant",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_vines"
+    },
+    {
+      "name": "EnviroPlant",
+      "type": "plant",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_plant"
+    },
+    {
+      "name": "EnviroOcean",
+      "type": "biome",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_ocean"
+    },
+    {
+      "name": "EnviroDeepOcean",
+      "type": "biome",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_deep_ocean"
+    },
+    {
+      "name": "EnviroFlower",
+      "type": "biome",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_flower"
+    },
+    {
+      "name": "EnviroSheep",
+      "type": "livingentity",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_sheep"
+    },
+    {
+      "name": "EnviroBrine",
+      "type": "livingentity",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_brine"
+    },
+    {
+      "name": "EnviroCow",
+      "type": "livingentity",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_cow"
+    },
+    {
+      "name": "EnviroChickenNaturlicheObjektEntstehungsbedingung",
+      "type": "procedure",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_chicken_naturliche_objekt_entstehungsbedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroChicken",
+      "type": "livingentity",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_chicken"
+    },
+    {
+      "name": "EnviroBrineNaturlicheObjektEntstehungsbedingung",
+      "type": "procedure",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_brine_naturliche_objekt_entstehungsbedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroCowNaturlicheObjektEntstehungsbedingung",
+      "type": "procedure",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_cow_naturliche_objekt_entstehungsbedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroSheepNaturlicheObjektEntstehungsbedingung",
+      "type": "procedure",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_sheep_naturliche_objekt_entstehungsbedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroRabbit",
+      "type": "livingentity",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_rabbit"
+    },
+    {
+      "name": "EnviroRabbitNaturlicheObjektEntstehungsbedingung",
+      "type": "procedure",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_rabbit_naturliche_objekt_entstehungsbedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroWoodedMountains",
+      "type": "biome",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_wooded_mountains"
+    },
+    {
+      "name": "EnviroTundra",
+      "type": "biome",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_tundra"
+    },
+    {
+      "name": "EnviroTundraHills",
+      "type": "biome",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_tundra_hills"
+    },
+    {
+      "name": "EnviroLake",
+      "type": "biome",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_lake"
+    },
+    {
+      "name": "EnviroWooded",
+      "type": "biome",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_wooded"
+    },
+    {
+      "name": "EnviroWoodedHills",
+      "type": "biome",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_wooded_hills"
+    },
+    {
+      "name": "EnviroOceanLukewarm",
+      "type": "biome",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_ocean_lukewarm"
+    },
+    {
+      "name": "EnviroOceanWarm",
+      "type": "biome",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_ocean_warm"
+    },
+    {
+      "name": "EnviroOceanCold",
+      "type": "biome",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_ocean_cold"
+    },
+    {
+      "name": "EnviroOceanFrozen",
+      "type": "biome",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_ocean_frozen"
+    },
+    {
+      "name": "EnviroWater",
+      "type": "fluid",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_water",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "EnviroWaterZusatzlicheFortsetzungsBedingung",
+      "type": "procedure",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_water_zusatzliche_fortsetzungs_bedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroLavaZusatzlicheFortsetzungsBedingung",
+      "type": "procedure",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_lava_zusatzliche_fortsetzungs_bedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroLavaAdditionalGenerationCondition",
+      "type": "procedure",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_lava_additional_generation_condition",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroLava",
+      "type": "fluid",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_lava",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "DirtBlocks",
+      "type": "tag",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dirt_blocks"
+    },
+    {
+      "name": "LogBlocks",
+      "type": "tag",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "log_blocks"
+    },
+    {
+      "name": "FenceBlocks",
+      "type": "tag",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fence_blocks"
+    },
+    {
+      "name": "WoodenFenceBlocks",
+      "type": "tag",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_fence_blocks"
+    },
+    {
+      "name": "WallBlocks",
+      "type": "tag",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wall_blocks"
+    },
+    {
+      "name": "SmallFlowerBlocks",
+      "type": "tag",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_flower_blocks"
+    },
+    {
+      "name": "TallFlowerBlocks",
+      "type": "tag",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tall_flower_blocks"
+    },
+    {
+      "name": "ValidSpawnBlocks",
+      "type": "tag",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "valid_spawn_blocks"
+    },
+    {
+      "name": "ImpermeableBlocks",
+      "type": "tag",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "impermeable_blocks"
+    },
+    {
+      "name": "BeaconBaseBlockBlocks",
+      "type": "tag",
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beacon_base_block_blocks"
+    },
+    {
+      "name": "LeaveBlocks",
+      "type": "tag",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "leave_blocks"
+    },
+    {
+      "name": "ClimbableBlocks",
+      "type": "tag",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "climbable_blocks"
+    },
+    {
+      "name": "FireBlocks",
+      "type": "tag",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fire_blocks"
+    },
+    {
+      "name": "DragonImmuneBlocks",
+      "type": "tag",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dragon_immune_blocks"
+    },
+    {
+      "name": "WitherImmuneBlocks",
+      "type": "tag",
+      "sortid": 236,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wither_immune_blocks"
+    },
+    {
+      "name": "ArrowItems",
+      "type": "tag",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arrow_items"
+    },
+    {
+      "name": "PlankItems",
+      "type": "tag",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plank_items"
+    },
+    {
+      "name": "FlowerItems",
+      "type": "tag",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flower_items"
+    },
+    {
+      "name": "SmallFlowerItems",
+      "type": "tag",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_flower_items"
+    },
+    {
+      "name": "TickFunctions",
+      "type": "tag",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tick_functions"
+    },
+    {
+      "name": "LoadFunctions",
+      "type": "tag",
+      "sortid": 242,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "load_functions"
+    },
+    {
+      "name": "ArrowEntities",
+      "type": "tag",
+      "sortid": 243,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arrow_entities"
+    },
+    {
+      "name": "ImpactProjectileEntities",
+      "type": "tag",
+      "sortid": 244,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "impact_projectile_entities"
+    },
+    {
+      "name": "BeehiveInhabitorEntities",
+      "type": "tag",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beehive_inhabitor_entities"
+    },
+    {
+      "name": "RaiderEntities",
+      "type": "tag",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raider_entities"
+    },
+    {
+      "name": "SkeletonEntities",
+      "type": "tag",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_entities"
+    },
+    {
+      "name": "OceanGeneratorRoomZusatzlicheGenerierungsbedingung",
+      "type": "procedure",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_generator_room_zusatzliche_generierungsbedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "OceanGeneratorRoomAufStrukturinstanzGeneriert",
+      "type": "procedure",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_generator_room_auf_strukturinstanz_generiert",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "GreenGeneratorBlockGultigPlatzierungsbedingung",
+      "type": "procedure",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_generator_block_gultig_platzierungsbedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "GreenGeneratorBedingungDerPartikelEntstehung",
+      "type": "procedure",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_generator_bedingung_der_partikel_entstehung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "GreenGeneratorZusatzlicheGenerierungsbedingung",
+      "type": "procedure",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_generator_zusatzliche_generierungsbedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "GreenGenerator",
+      "type": "block",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_generator"
+    },
+    {
+      "name": "SpawnEnviroStructures",
+      "type": "gamerule",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spawnEnviroStructures",
+      "metadata": {
+        "type": "logic"
+      }
+    },
+    {
+      "name": "SpawnEnviroMobs",
+      "type": "gamerule",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spawnEnviroMobs",
+      "metadata": {
+        "type": "logic"
+      }
+    },
+    {
+      "name": "EnviroDimEnabled",
+      "type": "gamerule",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviroDimEnabled",
+      "metadata": {
+        "type": "logic"
+      }
+    },
+    {
+      "name": "EnviroDimBuild",
+      "type": "gamerule",
+      "sortid": 254,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviroDimBuild",
+      "metadata": {
+        "type": "number"
+      }
+    },
+    {
+      "name": "GreenGeneratorGUI",
+      "type": "gui",
+      "sortid": 255,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_generator_gui"
+    },
+    {
+      "name": "WaterTankGUI",
+      "type": "gui",
+      "sortid": 256,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "water_tank_gui"
+    },
+    {
+      "name": "WaterTank",
+      "type": "block",
+      "sortid": 256,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "water_tank"
+    },
+    {
+      "name": "EnviroFrame",
+      "type": "block",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_frame"
+    },
+    {
+      "name": "EnviroFireworkBlock",
+      "type": "block",
+      "sortid": 258,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_firework_block"
+    },
+    {
+      "name": "EnviroGem",
+      "type": "item",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_gem"
+    },
+    {
+      "name": "EnviroStick",
+      "type": "item",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_stick"
+    },
+    {
+      "name": "EnviroItem",
+      "type": "item",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_item"
+    },
+    {
+      "name": "Energy",
+      "type": "item",
+      "sortid": 259,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy"
+    },
+    {
+      "name": "EnergyOre",
+      "type": "block",
+      "sortid": 260,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_ore"
+    },
+    {
+      "name": "EnergyBlock",
+      "type": "block",
+      "sortid": 261,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_block"
+    },
+    {
+      "name": "EnergyOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 262,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_ore_block_recipe"
+    },
+    {
+      "name": "EnergyBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 263,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_block_ore_recipe"
+    },
+    {
+      "name": "EnergyOreSmelting",
+      "type": "recipe",
+      "sortid": 264,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_ore_smelting"
+    },
+    {
+      "name": "EnergyPickaxe",
+      "type": "tool",
+      "sortid": 265,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_pickaxe"
+    },
+    {
+      "name": "EnergyAxe",
+      "type": "tool",
+      "sortid": 266,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_axe"
+    },
+    {
+      "name": "EnergySword",
+      "type": "tool",
+      "sortid": 267,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_sword"
+    },
+    {
+      "name": "EnergyShovel",
+      "type": "tool",
+      "sortid": 268,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_shovel"
+    },
+    {
+      "name": "EnergyHoe",
+      "type": "tool",
+      "sortid": 269,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_hoe"
+    },
+    {
+      "name": "EnergyPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 270,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_pickaxe_recipe"
+    },
+    {
+      "name": "EnergyAxeRecipe",
+      "type": "recipe",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_axe_recipe"
+    },
+    {
+      "name": "EnergySwordRecipe",
+      "type": "recipe",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_sword_recipe"
+    },
+    {
+      "name": "EnergyShovelRecipe",
+      "type": "recipe",
+      "sortid": 273,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_shovel_recipe"
+    },
+    {
+      "name": "EnergyHoeRecipe",
+      "type": "recipe",
+      "sortid": 274,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_hoe_recipe"
+    },
+    {
+      "name": "EnergyArmor",
+      "type": "armor",
+      "sortid": 275,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "EnergyArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 276,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_armor_helmet_recipe"
+    },
+    {
+      "name": "EnergyArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 277,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_armor_body_recipe"
+    },
+    {
+      "name": "EnergyArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 278,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_armor_leggings_recipe"
+    },
+    {
+      "name": "EnergyArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 279,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_armor_boots_recipe"
+    },
+    {
+      "name": "EnergyWoodWood",
+      "type": "block",
+      "sortid": 280,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_wood_wood"
+    },
+    {
+      "name": "EnergyWoodLog",
+      "type": "block",
+      "sortid": 281,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_wood_log"
+    },
+    {
+      "name": "EnergyWoodPlanks",
+      "type": "block",
+      "sortid": 282,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_wood_planks"
+    },
+    {
+      "name": "EnergyWoodLeaves",
+      "type": "block",
+      "sortid": 283,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_wood_leaves"
+    },
+    {
+      "name": "EnergyWoodStairs",
+      "type": "block",
+      "sortid": 284,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_wood_stairs"
+    },
+    {
+      "name": "EnergyWoodSlab",
+      "type": "block",
+      "sortid": 285,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_wood_slab"
+    },
+    {
+      "name": "EnergyWoodFence",
+      "type": "block",
+      "sortid": 286,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_wood_fence"
+    },
+    {
+      "name": "EnergyWoodFenceGate",
+      "type": "block",
+      "sortid": 287,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_wood_fence_gate"
+    },
+    {
+      "name": "EnergyWoodPressurePlate",
+      "type": "block",
+      "sortid": 288,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_wood_pressure_plate"
+    },
+    {
+      "name": "EnergyWoodButton",
+      "type": "block",
+      "sortid": 289,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_wood_button"
+    },
+    {
+      "name": "EnergyWoodItemsTag",
+      "type": "tag",
+      "sortid": 290,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_wood_items_tag"
+    },
+    {
+      "name": "EnergyWoodWoodRecipe",
+      "type": "recipe",
+      "sortid": 291,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_wood_wood_recipe"
+    },
+    {
+      "name": "EnergyWoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 292,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_wood_planks_recipe"
+    },
+    {
+      "name": "EnergyWoodStairsRecipe",
+      "type": "recipe",
+      "sortid": 293,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_wood_stairs_recipe"
+    },
+    {
+      "name": "EnergyWoodSlabRecipe",
+      "type": "recipe",
+      "sortid": 294,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_wood_slab_recipe"
+    },
+    {
+      "name": "EnergyWoodFenceRecipe",
+      "type": "recipe",
+      "sortid": 295,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_wood_fence_recipe"
+    },
+    {
+      "name": "EnergyWoodFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 296,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_wood_fence_gate_recipe"
+    },
+    {
+      "name": "EnergyWoodPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 297,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_wood_pressure_plate_recipe"
+    },
+    {
+      "name": "EnergyWoodButtonRecipe",
+      "type": "recipe",
+      "sortid": 298,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_wood_button_recipe"
+    },
+    {
+      "name": "EnergyWoodStickRecipe",
+      "type": "recipe",
+      "sortid": 299,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_wood_stick_recipe"
+    },
+    {
+      "name": "EnviroPortal",
+      "type": "recipe",
+      "sortid": 300,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_portal"
+    },
+    {
+      "name": "EnviroPortalBlock",
+      "type": "recipe",
+      "sortid": 301,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_portal_block"
+    },
+    {
+      "name": "OceanGeneratorRecipe",
+      "type": "recipe",
+      "sortid": 302,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_generator_recipe"
+    },
+    {
+      "name": "WindTurbineRecipe",
+      "type": "recipe",
+      "sortid": 303,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_turbine_recipe"
+    },
+    {
+      "name": "EnviroFireworkBlockRecipe",
+      "type": "recipe",
+      "sortid": 304,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_firework_block_recipe"
+    },
+    {
+      "name": "WaterTankRecipe",
+      "type": "recipe",
+      "sortid": 304,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "water_tank_recipe"
+    },
+    {
+      "name": "PowerBoxRecipe",
+      "type": "recipe",
+      "sortid": 305,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "power_box_recipe"
+    },
+    {
+      "name": "SolarCellRecipe",
+      "type": "recipe",
+      "sortid": 306,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "solar_cell_recipe"
+    },
+    {
+      "name": "TriangleGenerator",
+      "type": "block",
+      "sortid": 307,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "triangle_generator"
+    },
+    {
+      "name": "SolarShard",
+      "type": "item",
+      "sortid": 307,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "solar_shard"
+    },
+    {
+      "name": "EnviroPumpkin",
+      "type": "block",
+      "sortid": 308,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_pumpkin"
+    },
+    {
+      "name": "EnviroSong",
+      "type": "musicdisc",
+      "sortid": 308,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_song"
+    },
+    {
+      "name": "EnviroStorage",
+      "type": "block",
+      "sortid": 309,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_storage"
+    },
+    {
+      "name": "EnviroRod",
+      "type": "item",
+      "sortid": 310,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_rod"
+    },
+    {
+      "name": "EnviroHelmetObjektLeuchtenLassen",
+      "type": "procedure",
+      "sortid": 311,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_helmet_objekt_leuchten_lassen",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroHelmetSprengenErfolgreichWenn",
+      "type": "procedure",
+      "sortid": 312,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_helmet_sprengen_erfolgreich_wenn",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroHelmetBeimVerzichtAufVersuchMitErgebnis",
+      "type": "procedure",
+      "sortid": 313,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_helmet_beim_verzicht_auf_versuch_mit_ergebnis",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroHelmet",
+      "type": "item",
+      "sortid": 311,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_helmet"
+    },
+    {
+      "name": "EnviroGravel",
+      "type": "block",
+      "sortid": 314,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_gravel"
+    },
+    {
+      "name": "OceanGeneratorRoomLoot",
+      "type": "loottable",
+      "sortid": 315,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_generator_room_loot"
+    },
+    {
+      "name": "WindTurbineLoot",
+      "type": "loottable",
+      "sortid": 315,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wind_turbine_loot"
+    },
+    {
+      "name": "SolarParkLoot",
+      "type": "loottable",
+      "sortid": 315,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "solar_park_loot"
+    },
+    {
+      "name": "SolarPark",
+      "type": "structure",
+      "sortid": 315,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "solar_park"
+    },
+    {
+      "name": "EnviroNote",
+      "type": "item",
+      "sortid": 316,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_note"
+    },
+    {
+      "name": "EnviroChest",
+      "type": "block",
+      "sortid": 317,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_chest"
+    },
+    {
+      "name": "EnviroBall",
+      "type": "item",
+      "sortid": 318,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_ball"
+    },
+    {
+      "name": "EnviroLog",
+      "type": "block",
+      "sortid": 319,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_log"
+    },
+    {
+      "name": "EnviroChestGUI",
+      "type": "gui",
+      "sortid": 320,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_chest_gui"
+    },
+    {
+      "name": "EnviroMushroom",
+      "type": "block",
+      "sortid": 321,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_mushroom"
+    },
+    {
+      "name": "EnviroFaceObjektLeuchtenLassen",
+      "type": "procedure",
+      "sortid": 322,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_face_objekt_leuchten_lassen",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroFace",
+      "type": "item",
+      "sortid": 322,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_face"
+    },
+    {
+      "name": "EnviroSmokeItem",
+      "type": "item",
+      "sortid": 323,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_smoke_item"
+    },
+    {
+      "name": "EnviroSmoke",
+      "type": "particle",
+      "sortid": 323,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_smoke"
+    },
+    {
+      "name": "EnviroOreBlock",
+      "type": "block",
+      "sortid": 324,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_ore_block"
+    },
+    {
+      "name": "EnviroVillagerNaturlicheObjektEntstehungsbedingung",
+      "type": "procedure",
+      "sortid": 325,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_villager_naturliche_objekt_entstehungsbedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroVillager",
+      "type": "livingentity",
+      "sortid": 325,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_villager"
+    },
+    {
+      "name": "EnviroRodBlockBedingungDerPartikelEntstehung",
+      "type": "procedure",
+      "sortid": 326,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_rod_block_bedingung_der_partikel_entstehung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroRodBlockBlockGultigPlatzierungsbedingung",
+      "type": "procedure",
+      "sortid": 326,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_rod_block_block_gultig_platzierungsbedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroRodBlock",
+      "type": "block",
+      "sortid": 326,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_rod_block"
+    },
+    {
+      "name": "EnviroTorch",
+      "type": "block",
+      "sortid": 326,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_torch"
+    },
+    {
+      "name": "EnviroBlockRed",
+      "type": "block",
+      "sortid": 327,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_block_red"
+    },
+    {
+      "name": "EnviroBlockRedBlockGultigPlatzierungsbedingung",
+      "type": "procedure",
+      "sortid": 328,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_block_red_block_gultig_platzierungsbedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroBlockRedBedingungDerPartikelEntstehung",
+      "type": "procedure",
+      "sortid": 329,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_block_red_bedingung_der_partikel_entstehung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroBlockRedZusatzlicheGenerierungsbedingung",
+      "type": "procedure",
+      "sortid": 330,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_block_red_zusatzliche_generierungsbedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroBlockBlue",
+      "type": "block",
+      "sortid": 331,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_block_blue"
+    },
+    {
+      "name": "EnviroBlockBlueZusatzlicheGenerierungsbedingung",
+      "type": "procedure",
+      "sortid": 332,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_block_blue_zusatzliche_generierungsbedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroTreeZusatzlicheErstellungsbedingung",
+      "type": "procedure",
+      "sortid": 333,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_tree_zusatzliche_erstellungsbedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroCrops",
+      "type": "plant",
+      "sortid": 334,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_crops"
+    },
+    {
+      "name": "EnviroCropsZusatzlicheErstellungsbedingung",
+      "type": "procedure",
+      "sortid": 335,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_crops_zusatzliche_erstellungsbedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "RecyclingMachineGUI",
+      "type": "gui",
+      "sortid": 336,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recycling_machine_gui"
+    },
+    {
+      "name": "RecyclingMachineZusatzlicheGenerierungsbedingung",
+      "type": "procedure",
+      "sortid": 337,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recycling_machine_zusatzliche_generierungsbedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "RecyclingMachine",
+      "type": "block",
+      "sortid": 336,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recycling_machine"
+    },
+    {
+      "name": "EnviroDimJoined",
+      "type": "achievement",
+      "sortid": 338,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_dim_joined"
+    },
+    {
+      "name": "EnviroDirtWithGemBlockGultigPlatzierungsbedingung",
+      "type": "procedure",
+      "sortid": 339,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_dirt_with_gem_block_gultig_platzierungsbedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroDirtWithGemBedingungDerPartikelEntstehung",
+      "type": "procedure",
+      "sortid": 339,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_dirt_with_gem_bedingung_der_partikel_entstehung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroDirtWithGemZusatzlicheGenerierungsbedingung",
+      "type": "procedure",
+      "sortid": 339,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_dirt_with_gem_zusatzliche_generierungsbedingung",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnviroDirtWithGem",
+      "type": "block",
+      "sortid": 339,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enviro_dirt_with_gem"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.envirocraft.enviro_wood_pressure_plate": "EnviroWood Pressure Plate",
+      "block.envirocraft.enviro_stone": "Enviro Stone",
+      "block.envirocraft.wind_pressure_plate": "Wind Pressure Plate",
+      "biome.envirocraft.enviro_ocean_frozen": "Enviro Ocean Frozen",
+      "item.envirocraft.enviro_helmet": "Enviro Helmet",
+      "item.envirocraft.enviro_stick": "Enviro Stick",
+      "biome.envirocraft.enviro_flower_forest_hills": "Enviro Flower Forest",
+      "block.envirocraft.enviro_grass": "Enviro Grass",
+      "biome.envirocraft.enviro_ocean": "Enviro Ocean",
+      "biome.envirocraft.enviro_taiga_hills": "Enviro Taiga Hills",
+      "biome.envirocraft.enviro_wooded_mountains": "Enviro Mountains",
+      "biome.envirocraft.enviro_swamp_hills": "Enviro Swamp Hills",
+      "biome.envirocraft.enviro_pine_taiga_hills": "Enviro Big Taiga",
+      "item.envirocraft.wind_hoe": "Wind Hoe",
+      "block.envirocraft.ocean_pressure_plate": "Ocean Pressure Plate",
+      "biome.envirocraft.enviro_icy": "Enviro Icy",
+      "block.envirocraft.enviro_dirt_with_gem": "Enviro Dirt With Gem",
+      "block.envirocraft.wind_block": "Block of Wind",
+      "block.envirocraft.enviro_wood_fence_gate": "EnviroWood Fence Gate",
+      "item.envirocraft.enviro_hoe": "Enviro Hoe",
+      "item.envirocraft.enviro_face": "Enviro Face",
+      "biome.envirocraft.enviro_big_taiga": "Enviro Big Taiga",
+      "block.envirocraft.energy_block": "Block of Energy",
+      "entity.envirocraft.enviro_villager": "Enviro Villager",
+      "biome.envirocraft.enviro_birch_forest_hills": "Enviro Birch Forest Hills",
+      "biome.envirocraft.enviro_hills": "Enviro Hills",
+      "block.envirocraft.enviro_gravel": "Enviro Gravel",
+      "item.envirocraft.enviro_armor_leggings": "Enviro Leggings",
+      "block.envirocraft.power_box": "Power Box",
+      "block.envirocraft.energy_wood_log": "EnergyWood Log",
+      "item.envirocraft.enviro_rod": "Enviro Rod",
+      "biome.envirocraft.enviro_taiga": "Enviro Taiga",
+      "advancements.enviro_dim_joined.title": "Enviro Dim Joined",
+      "biome.envirocraft.enviro_lands_hills": "Enviro Lands",
+      "gamerule.spawnEnviroMobs.description": "When this is toggled on, all EnviroCraft-Mobs will then spawn in the EnviroDim.",
+      "item.envirocraft.enviro_sheep_spawn_egg": "Enviro Sheep Spawn Egg",
+      "item.envirocraft.energy_pickaxe": "Energy Pickaxe",
+      "gamerule.spawnEnviroStructures": "Spawn Enviro Structures",
+      "item.envirocraft.enviro_song.desc": "The Enviro Song for the EnviroCraft Mod!",
+      "item.envirocraft.wind_sword": "Wind Sword",
+      "block.envirocraft.energy_wood_slab": "EnergyWood Slab",
+      "biome.envirocraft.enviro_savanna": "Enviro Savanna",
+      "block.envirocraft.enviro_plant": "Enviro Plant",
+      "biome.envirocraft.enviro_biome": "Enviro Biome",
+      "block.envirocraft.enviro_log": "Enviro Log",
+      "item.envirocraft.wind_armor_boots": "Wind Boots",
+      "block.envirocraft.wind_leaves": "Wind Leaves",
+      "block.envirocraft.enviro_fluid": "Enviro Fluid",
+      "block.envirocraft.enviro_lava": "Enviro Lava",
+      "block.envirocraft.enviro_ore_block": "Enviro Ore Block",
+      "block.envirocraft.energy_wood_planks": "EnergyWood Planks",
+      "block.envirocraft.ocean_wood": "Ocean Wood",
+      "block.envirocraft.enviro_chest": "Enviro Chest",
+      "item.envirocraft.energy_armor_helmet": "Energy Helmet",
+      "item.envirocraft.energy_armor_leggings": "Energy Leggings",
+      "block.envirocraft.ocean_slab": "Ocean Slab",
+      "entity.envirocraft.enviro_rabbit": "Enviro Rabbit",
+      "item.envirocraft.solar_shard": "Solar Shard",
+      "item.envirocraft.enviro_dim": "Enviro Dim Portal Igniter",
+      "block.envirocraft.enviro_vines": "Enviro Vines",
+      "item.envirocraft.enviro_armor_boots": "Enviro Boots",
+      "biome.envirocraft.enviro_tundra_hills": "Enviro Taiga",
+      "block.envirocraft.enviro_wood_leaves": "EnviroWood Leaves",
+      "item.envirocraft.ocean_ingot": "Ocean",
+      "item.envirocraft.ocean_sword": "Ocean Sword",
+      "block.envirocraft.enviro_crops": "Enviro Crops",
+      "block.envirocraft.wind_slab": "Wind Slab",
+      "item.envirocraft.enviro_cow_spawn_egg": "Enviro Cow Spawn Egg",
+      "item.envirocraft.enviro_villager_spawn_egg": "Enviro Villager Spawn Egg",
+      "block.envirocraft.ocean_stairs": "Ocean Stairs",
+      "block.envirocraft.enviro_ice": "Enviro Ice",
+      "biome.envirocraft.enviro_swamp": "Enviro Swamp",
+      "item.envirocraft.enviro_note": "Enviro Note",
+      "item.envirocraft.enviro_chicken_spawn_egg": "Enviro Chicken Spawn Egg",
+      "block.envirocraft.energy_wood_fence": "EnergyWood Fence",
+      "gamerule.spawnEnviroStructures.description": "When enabled, all EnviroCraft-structures will spawn.",
+      "biome.envirocraft.enviro_mountains": "Enviro Mountains",
+      "block.envirocraft.enviro_sand": "Enviro Sand",
+      "biome.envirocraft.enviro_lands_forest": "Enviro Lands",
+      "item.envirocraft.wind_armor_leggings": "Wind Leggings",
+      "block.envirocraft.enviro_ore": "Enviro Ore",
+      "item.envirocraft.enviro_water_bucket": "Enviro Water Bucket",
+      "item.envirocraft.wind_axe": "Wind Axe",
+      "block.envirocraft.enviro_frame": "Enviro Frame",
+      "block.envirocraft.enviro_rod_block": "Enviro Rod Block",
+      "item.envirocraft.enviro_ball": "Enviro Ball",
+      "item.envirocraft.ocean_shovel": "Ocean Shovel",
+      "block.envirocraft.enviro_portal_frame": "Enviro Portal Frame",
+      "block.envirocraft.ocean_ore": "Ocean Ore",
+      "entity.envirocraft.enviro_chicken": "Enviro Chicken",
+      "block.envirocraft.triangle_generator": "Triangle Generator",
+      "item.envirocraft.enviro_fluid_bucket": "Enviro Fluid Bucket",
+      "entity.envirocraft.enviro_sheep": "Enviro Sheep",
+      "item.envirocraft.wind_armor_chestplate": "Wind Chestplate",
+      "item.envirocraft.enviro_rabbit_spawn_egg": "Enviro Rabbit Spawn Egg",
+      "itemGroup.tabenvirocraft": "Envirocraft",
+      "block.envirocraft.wind_button": "Wind Button",
+      "item.envirocraft.enviro_lava_bucket": "Enviro Lava Bucket",
+      "entity.envirocraft.enviro_craft_monster": "Enviro Craft Monster",
+      "biome.envirocraft.enviro_wooded": "Enviro Forest",
+      "block.envirocraft.enviro_wood_slab": "EnviroWood Slab",
+      "item.envirocraft.enviro_sword": "Enviro Sword",
+      "gamerule.enviroDimBuild.description": "This game rule changes the maximum build height in the EnviroDim.",
+      "block.envirocraft.wind_turbine": "Wind Turbine",
+      "item.envirocraft.enviro_axe": "Enviro Axe",
+      "block.envirocraft.wind_stairs": "Wind Stairs",
+      "item.envirocraft.enviro_craft_monster_spawn_egg": "Enviro Craft Monster Spawn Egg",
+      "item.envirocraft.wind_armor_helmet": "Wind Helmet",
+      "gamerule.enviroDimEnabled.description": "This game rule toggles the EnviroDim on or off.",
+      "biome.envirocraft.enviro_ocean_warm": "Enviro Ocean Warm",
+      "item.envirocraft.energy_hoe": "Energy Hoe",
+      "block.envirocraft.wind_fence_gate": "Wind Fence Gate",
+      "fluid.envirocraft.enviro_fluid": "Enviro Fluid",
+      "biome.envirocraft.enviro_icy_hills": "Enviro Icy",
+      "biome.envirocraft.enviro_lands": "Enviro Lands",
+      "block.envirocraft.wind_wood": "Wind Wood",
+      "block.envirocraft.enviro_storage": "Enviro Storage",
+      "item.envirocraft.wind_shovel": "Wind Shovel",
+      "block.envirocraft.enviro_pumpkin": "Enviro Pumpkin",
+      "biome.envirocraft.enviro_flower_hills": "Enviro Flower Forest",
+      "block.envirocraft.ocean_button": "Ocean Button",
+      "item.envirocraft.energy_shovel": "Energy Shovel",
+      "item.envirocraft.enviro_armor_helmet": "Enviro Helmet",
+      "fluid.envirocraft.enviro_lava": "Enviro Lava",
+      "item.envirocraft.ocean_armor_chestplate": "Ocean Chestplate",
+      "block.envirocraft.ocean_planks": "Ocean Planks",
+      "block.envirocraft.enviro_block_blue": "Enviro Block Blue",
+      "block.envirocraft.enviro_wood_planks": "EnviroWood Planks",
+      "item.envirocraft.ocean_hoe": "Ocean Hoe",
+      "biome.envirocraft.enviro_big_taiga_hills": "Enviro Big Taiga",
+      "entity.envirocraft.enviro_cow": "Enviro Cow",
+      "item.envirocraft.enviro_smoke_item": "Enviro Smoke Item",
+      "item.envirocraft.ocean_armor_boots": "Ocean Boots",
+      "entity.envirocraft.enviro_pig": "Enviro Pig",
+      "block.envirocraft.energy_wood_pressure_plate": "EnergyWood Pressure Plate",
+      "item.envirocraft.enviro_shovel": "Enviro Shovel",
+      "block.envirocraft.enviro_firework_block": "Enviro Firework Block",
+      "biome.envirocraft.enviro_tundra": "Enviro Taiga",
+      "item.envirocraft.ocean_armor_helmet": "Ocean Helmet",
+      "block.envirocraft.green_generator": "Green Generator",
+      "biome.envirocraft.enviro_birch_forest": "Enviro Birch Forest",
+      "block.envirocraft.water_tank": "Water Tank",
+      "fluid.envirocraft.enviro_water": "Enviro Water",
+      "item.envirocraft.energy": "Energy",
+      "block.envirocraft.wind_planks": "Wind Planks",
+      "biome.envirocraft.enviro_forest_hills": "Enviro Forest Hills",
+      "block.envirocraft.energy_wood_fence_gate": "EnergyWood Fence Gate",
+      "gamerule.enviroDimEnabled": "Enviro Dim Enabled",
+      "block.envirocraft.ocean_fence_gate": "Ocean Fence Gate",
+      "item.envirocraft.enviro_armor_chestplate": "Enviro Chestplate",
+      "block.envirocraft.enviro_wood_wood": "EnviroWood Wood",
+      "block.envirocraft.ocean_log": "Ocean Log",
+      "gamerule.enviroDimBuild": "Enviro Dim Build",
+      "block.envirocraft.energy_ore": "Energy Ore",
+      "block.envirocraft.enviro_wood_fence": "EnviroWood Fence",
+      "item.envirocraft.enviro_pig_spawn_egg": "Enviro Pig Spawn Egg",
+      "biome.envirocraft.enviro_lands_forest_hills": "Enviro Lands",
+      "block.envirocraft.wind_log": "Wind Log",
+      "biome.envirocraft.enviro_ocean_cold": "Enviro Ocean Cold",
+      "block.envirocraft.energy_wood_stairs": "EnergyWood Stairs",
+      "block.envirocraft.ocean_leaves": "Ocean Leaves",
+      "block.envirocraft.enviro_torch": "Enviro Torch",
+      "block.envirocraft.recycling_machine": "Recycling Machine",
+      "block.envirocraft.enviro_water": "Enviro Water",
+      "block.envirocraft.enviro_mushroom": "Enviro Mushroom",
+      "block.envirocraft.solar_cell": "Solar Cell",
+      "block.envirocraft.energy_wood_leaves": "EnergyWood Leaves",
+      "block.envirocraft.enviro_wood_log": "EnviroWood Log",
+      "item.envirocraft.energy_armor_boots": "Energy Boots",
+      "block.envirocraft.wind_fence": "Wind Fence",
+      "block.envirocraft.enviro_tree": "Enviro Tree",
+      "item.envirocraft.enviro": "Enviro",
+      "item.envirocraft.enviro_pickaxe": "Enviro Pickaxe",
+      "biome.envirocraft.enviro_flower": "Enviro Flower Forest",
+      "item.envirocraft.energy_sword": "Energy Sword",
+      "block.envirocraft.enviro_wood_stairs": "EnviroWood Stairs",
+      "block.envirocraft.enviro_dirt": "Enviro Dirt",
+      "block.envirocraft.enviro_wood_button": "EnviroWood Button",
+      "biome.envirocraft.enviro_deep_ocean": "Enviro Ocean",
+      "biome.envirocraft.enviro_lake": "Enviro Lake",
+      "entity.envirocraft.enviro_brine": "Enviro Brine",
+      "item.envirocraft.enviro_item": "Enviro Item",
+      "biome.envirocraft.enviro_forest": "Enviro Forest",
+      "item.envirocraft.energy_axe": "Energy Axe",
+      "item.envirocraft.enviro_song": "Enviro Song",
+      "block.envirocraft.enviro_block_red": "Enviro Block Red",
+      "item.envirocraft.enviro_gem": "Enviro Gem",
+      "item.envirocraft.wind_pickaxe": "Wind Pickaxe",
+      "block.envirocraft.ocean_block": "Block of Ocean",
+      "biome.envirocraft.enviro_ocean_lukewarm": "Enviro Ocean",
+      "advancements.enviro_dim_joined.descr": "The player gets this advancement when he and/or she is joining the Enviro Dimension for the first time!",
+      "item.envirocraft.ocean_axe": "Ocean Axe",
+      "biome.envirocraft.enviro_flower_forest": "Enviro Flower Forest",
+      "block.envirocraft.enviro_craft_portal_block": "Enviro Craft Portal Block",
+      "biome.envirocraft.enviro_desert": "Enviro Desert",
+      "item.envirocraft.wind_dust": "Wind",
+      "item.envirocraft.ocean_pickaxe": "Ocean Pickaxe",
+      "item.envirocraft.ocean_armor_leggings": "Ocean Leggings",
+      "item.envirocraft.enviro_brine_spawn_egg": "Enviro Brine Spawn Egg",
+      "block.envirocraft.energy_wood_wood": "EnergyWood Wood",
+      "item.envirocraft.energy_armor_chestplate": "Energy Chestplate",
+      "biome.envirocraft.enviro_jungle": "Enviro Jungle",
+      "block.envirocraft.enviro_block": "Block of Enviro",
+      "biome.envirocraft.enviro_jungle_hills": "Enviro Jungle Hills",
+      "block.envirocraft.energy_wood_button": "EnergyWood Button",
+      "block.envirocraft.ocean_fence": "Ocean Fence",
+      "biome.envirocraft.enviro_pine_taiga": "Enviro Big Taiga",
+      "block.envirocraft.wind_ore": "Wind Ore",
+      "biome.envirocraft.enviro_wooded_hills": "Enviro Forest Hills",
+      "gamerule.spawnEnviroMobs": "Spawn Enviro Mobs",
+      "block.envirocraft.ocean_generator": "Ocean Generator"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "envirocraft",
+    "modName": "Envirocraft",
+    "version": "0.0.1",
+    "description": "This mod adds environment friendly things to Minecraft",
+    "author": "Mika Kreis",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.envirocraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200112711
+}

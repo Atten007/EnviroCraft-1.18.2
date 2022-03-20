@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "envirocraft:wind_dust"
+    },
+    {
+      "item": "envirocraft:wind_dust"
+    },
+    {
+      "item": "envirocraft:wind_block"
+    },
+    {
+      "item": "envirocraft:wind_dust"
+    },
+    {
+      "item": "envirocraft:wind_dust"
+    }
+  ],
+  "result": {
+    "item": "envirocraft:enviro_craft_portal_block",
+    "count": 1
+  }
+}

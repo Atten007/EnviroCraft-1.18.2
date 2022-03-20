@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "envirocraft:blocks/watertank",
+    "up": "envirocraft:blocks/watertank",
+    "north": "envirocraft:blocks/watertank",
+    "east": "envirocraft:blocks/watertank",
+    "south": "envirocraft:blocks/watertank",
+    "west": "envirocraft:blocks/watertank",
+    "particle": "envirocraft:blocks/watertank"
+  }
+}

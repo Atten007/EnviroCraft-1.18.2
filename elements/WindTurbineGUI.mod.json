@@ -1,0 +1,44 @@
+{
+  "_fv": 25,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "GUI for WindTurbines",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "GUI for WindTurbines",
+          "x": 131,
+          "y": 43
+        }
+      },
+      {
+        "type": "checkbox",
+        "data": {
+          "text": "(De)activate",
+          "name": "IsActive",
+          "x": 136,
+          "y": 61
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 19,
+      "sy": 19,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

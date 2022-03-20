@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "envirocraft:energy"
+    },
+    "1": {
+      "item": "envirocraft:energy"
+    },
+    "2": {
+      "item": "envirocraft:energy"
+    },
+    "3": {
+      "item": "envirocraft:energy"
+    },
+    "5": {
+      "item": "envirocraft:energy"
+    },
+    "6": {
+      "item": "envirocraft:energy"
+    },
+    "8": {
+      "item": "envirocraft:energy"
+    }
+  },
+  "result": {
+    "item": "envirocraft:energy_armor_leggings",
+    "count": 1
+  }
+}

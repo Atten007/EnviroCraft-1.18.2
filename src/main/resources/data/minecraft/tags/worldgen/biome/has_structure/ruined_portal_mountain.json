@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "envirocraft:enviro_forest_hills",
+    "envirocraft:enviro_icy",
+    "envirocraft:enviro_mountains",
+    "envirocraft:enviro_taiga",
+    "envirocraft:enviro_big_taiga",
+    "envirocraft:enviro_big_taiga_hills",
+    "envirocraft:enviro_icy_hills",
+    "envirocraft:enviro_pine_taiga",
+    "envirocraft:enviro_pine_taiga_hills",
+    "envirocraft:enviro_wooded_mountains",
+    "envirocraft:enviro_tundra",
+    "envirocraft:enviro_tundra_hills",
+    "envirocraft:enviro_wooded_hills"
+  ]
+}

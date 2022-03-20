@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "envirocraft:wind_planks"
+    }
+  ],
+  "result": {
+    "item": "envirocraft:wind_button",
+    "count": 1
+  }
+}

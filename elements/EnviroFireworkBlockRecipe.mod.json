@@ -1,0 +1,46 @@
+{
+  "_fv": 25,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "Items.FIREWORKS"
+      },
+      {
+        "value": "Items.FIREWORK_CHARGE"
+      },
+      {
+        "value": "Items.FIREWORKS"
+      },
+      {
+        "value": "Items.FIREWORK_CHARGE"
+      },
+      {
+        "value": "Items.FIREWORKS"
+      },
+      {
+        "value": "Items.FIREWORK_CHARGE"
+      },
+      {
+        "value": "Items.FIREWORKS"
+      },
+      {
+        "value": "Items.FIREWORK_CHARGE"
+      },
+      {
+        "value": "Items.FIREWORKS"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EnviroFireworkBlock"
+    },
+    "name": "enviro_firework_block_recipe",
+    "namespace": "mod"
+  }
+}

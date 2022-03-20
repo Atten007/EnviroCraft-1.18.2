@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "envirocraft:enviro_desert",
+    "envirocraft:enviro_lands",
+    "envirocraft:enviro_lands_forest",
+    "envirocraft:enviro_lands_hills",
+    "envirocraft:enviro_lands_forest_hills"
+  ]
+}

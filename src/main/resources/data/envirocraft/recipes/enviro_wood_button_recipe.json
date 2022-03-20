@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "envirocraft:enviro_wood_planks"
+    }
+  ],
+  "result": {
+    "item": "envirocraft:enviro_wood_button",
+    "count": 1
+  }
+}

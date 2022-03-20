@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "envirocraft:ocean_log"
+    },
+    "1": {
+      "item": "envirocraft:ocean_log"
+    },
+    "2": {
+      "item": "envirocraft:ocean_log"
+    },
+    "3": {
+      "item": "envirocraft:ocean_log"
+    }
+  },
+  "result": {
+    "item": "envirocraft:ocean_wood",
+    "count": 3
+  }
+}

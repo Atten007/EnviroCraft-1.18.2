@@ -1,0 +1,20 @@
+{
+  "_fv": 25,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:OceanWood"
+      },
+      {
+        "value": "CUSTOM:OceanLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "ocean_log",
+    "namespace": "forge"
+  }
+}

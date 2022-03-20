@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "envirocraft:wind_dust"
+    },
+    "2": {
+      "item": "envirocraft:wind_dust"
+    },
+    "3": {
+      "item": "envirocraft:wind_dust"
+    },
+    "4": {
+      "item": "envirocraft:wind_dust"
+    },
+    "5": {
+      "item": "envirocraft:wind_dust"
+    },
+    "6": {
+      "item": "envirocraft:wind_dust"
+    },
+    "7": {
+      "item": "envirocraft:wind_dust"
+    },
+    "8": {
+      "item": "envirocraft:wind_dust"
+    }
+  },
+  "result": {
+    "item": "envirocraft:wind_armor_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "_fv": 25,
+  "_type": "command",
+  "definition": {
+    "commandName": "envirocraft",
+    "permissionLevel": "1"
+  }
+}

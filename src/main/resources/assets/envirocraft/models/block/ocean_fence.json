@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "envirocraft:blocks/ocean_planks",
+    "particle": "envirocraft:blocks/ocean_planks"
+  }
+}

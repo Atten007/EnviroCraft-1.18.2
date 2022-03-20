@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "envirocraft:energy"
+    },
+    "2": {
+      "item": "envirocraft:energy"
+    },
+    "3": {
+      "item": "envirocraft:energy"
+    },
+    "5": {
+      "item": "envirocraft:energy"
+    }
+  },
+  "result": {
+    "item": "envirocraft:energy_armor_boots",
+    "count": 1
+  }
+}

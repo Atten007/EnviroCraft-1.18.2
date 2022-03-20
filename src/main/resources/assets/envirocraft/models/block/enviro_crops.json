@@ -1,0 +1,7 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "envirocraft:blocks/envirocrops",
+    "particle": "envirocraft:blocks/envirocrops"
+  }
+}

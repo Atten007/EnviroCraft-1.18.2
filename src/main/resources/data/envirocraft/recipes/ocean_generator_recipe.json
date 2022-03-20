@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "envirocraft:ocean_ingot"
+    },
+    {
+      "item": "envirocraft:ocean_ingot"
+    },
+    {
+      "item": "envirocraft:ocean_ingot"
+    },
+    {
+      "item": "envirocraft:ocean_ingot"
+    },
+    {
+      "item": "envirocraft:ocean_block"
+    },
+    {
+      "item": "envirocraft:ocean_ingot"
+    },
+    {
+      "item": "envirocraft:ocean_ingot"
+    },
+    {
+      "item": "envirocraft:ocean_ingot"
+    },
+    {
+      "item": "envirocraft:ocean_ingot"
+    }
+  ],
+  "result": {
+    "item": "envirocraft:ocean_generator",
+    "count": 1
+  }
+}

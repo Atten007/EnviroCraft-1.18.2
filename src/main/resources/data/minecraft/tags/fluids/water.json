@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "envirocraft:enviro_fluid",
+    "envirocraft:flowing_enviro_fluid",
+    "envirocraft:enviro_water",
+    "envirocraft:flowing_enviro_water"
+  ]
+}

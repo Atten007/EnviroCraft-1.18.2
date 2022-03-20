@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "envirocraft:enviro_ore",
+    "envirocraft:enviro_block",
+    "envirocraft:wind_ore",
+    "envirocraft:wind_block",
+    "envirocraft:ocean_ore",
+    "envirocraft:ocean_block",
+    "envirocraft:energy_ore",
+    "envirocraft:energy_block"
+  ]
+}

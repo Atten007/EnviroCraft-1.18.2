@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "envirocraft:blocks/enviropumpkin",
+    "up": "envirocraft:blocks/enviropumpkin",
+    "north": "envirocraft:blocks/enviropumpkin",
+    "east": "envirocraft:blocks/enviropumpkin",
+    "south": "envirocraft:blocks/enviropumpkin",
+    "west": "envirocraft:blocks/enviropumpkin",
+    "particle": "envirocraft:blocks/enviropumpkin"
+  }
+}

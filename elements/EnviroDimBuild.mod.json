@@ -1,0 +1,12 @@
+{
+  "_fv": 25,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Number",
+    "displayName": "Enviro Dim Build",
+    "description": "This game rule changes the maximum build height in the EnviroDim.",
+    "category": "PLAYER",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 512
+  }
+}

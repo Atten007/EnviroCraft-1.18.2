@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "envirocraft:blocks/greengenerator",
+    "up": "envirocraft:blocks/greengenerator",
+    "north": "envirocraft:blocks/greengenerator",
+    "east": "envirocraft:blocks/greengenerator",
+    "south": "envirocraft:blocks/greengenerator",
+    "west": "envirocraft:blocks/greengenerator",
+    "particle": "envirocraft:blocks/greengenerator"
+  }
+}

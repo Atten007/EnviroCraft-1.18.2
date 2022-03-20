@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "envirocraft:blocks/recyclingmachine",
+    "up": "envirocraft:blocks/recyclingmachine",
+    "north": "envirocraft:blocks/recyclingmachine",
+    "east": "envirocraft:blocks/recyclingmachine",
+    "south": "envirocraft:blocks/recyclingmachine",
+    "west": "envirocraft:blocks/recyclingmachine",
+    "particle": "envirocraft:blocks/recyclingmachine"
+  }
+}

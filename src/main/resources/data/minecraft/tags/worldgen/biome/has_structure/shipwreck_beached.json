@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "envirocraft:enviro_forest_hills",
+    "envirocraft:enviro_jungle_hills",
+    "envirocraft:enviro_mountains",
+    "envirocraft:enviro_savanna",
+    "envirocraft:enviro_ocean",
+    "envirocraft:enviro_deep_ocean",
+    "envirocraft:enviro_wooded_mountains",
+    "envirocraft:enviro_lake",
+    "envirocraft:enviro_wooded_hills",
+    "envirocraft:enviro_ocean_lukewarm"
+  ]
+}

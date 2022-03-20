@@ -1,0 +1,12 @@
+{
+  "_fv": 25,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Logic",
+    "displayName": "Spawn Enviro Mobs",
+    "description": "When this is toggled on, all EnviroCraft-Mobs will then spawn in the EnviroDim.",
+    "category": "SPAWNING",
+    "defaultValueLogic": true,
+    "defaultValueNumber": 0
+  }
+}

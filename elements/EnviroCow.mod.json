@@ -1,0 +1,215 @@
+{
+  "_fv": 25,
+  "_type": "livingentity",
+  "definition": {
+    "mobName": "Enviro Cow",
+    "mobLabel": "",
+    "mobModelName": "Cow",
+    "mobModelTexture": "cow.png",
+    "mobModelGlowTexture": "",
+    "modelWidth": 0.9,
+    "modelHeight": 1.4,
+    "modelShadowSize": 0.5,
+    "mountedYOffset": 0.0,
+    "hasSpawnEgg": true,
+    "spawnEggBaseColor": {
+      "value": -10079488,
+      "falpha": 0.0
+    },
+    "spawnEggDotColor": {
+      "value": -6684928,
+      "falpha": 0.0
+    },
+    "creativeTab": {
+      "value": "CUSTOM:Envirocraft"
+    },
+    "isBoss": false,
+    "bossBarColor": "PINK",
+    "bossBarType": "PROGRESS",
+    "equipmentMainHand": {
+      "value": ""
+    },
+    "equipmentOffHand": {
+      "value": ""
+    },
+    "equipmentHelmet": {
+      "value": ""
+    },
+    "equipmentBody": {
+      "value": ""
+    },
+    "equipmentLeggings": {
+      "value": ""
+    },
+    "equipmentBoots": {
+      "value": ""
+    },
+    "mobBehaviourType": "Creature",
+    "mobCreatureType": "UNDEFINED",
+    "attackStrength": 3,
+    "attackKnockback": 0.0,
+    "knockbackResistance": 0.0,
+    "movementSpeed": 0.3,
+    "armorBaseValue": 0.0,
+    "trackingRange": 64,
+    "health": 10,
+    "xpAmount": 0,
+    "waterMob": false,
+    "flyingMob": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "disableCollisions": false,
+    "ridable": false,
+    "canControlForward": false,
+    "canControlStrafe": false,
+    "immuneToFire": false,
+    "immuneToArrows": false,
+    "immuneToFallDamage": false,
+    "immuneToCactus": false,
+    "immuneToDrowning": false,
+    "immuneToLightning": false,
+    "immuneToPotions": false,
+    "immuneToPlayer": false,
+    "immuneToExplosion": false,
+    "immuneToTrident": false,
+    "immuneToAnvil": false,
+    "immuneToWither": false,
+    "immuneToDragonBreath": false,
+    "mobDrop": {
+      "value": ""
+    },
+    "livingSound": {
+      "value": "entity.cow.ambient"
+    },
+    "hurtSound": {
+      "value": "entity.cow.hurt"
+    },
+    "deathSound": {
+      "value": "entity.cow.death"
+    },
+    "stepSound": {
+      "value": "entity.cow.step"
+    },
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particleSpawningShape": "Spread",
+    "particleSpawningRadious": 0.5,
+    "particleAmount": 4,
+    "hasAI": true,
+    "aiBase": "(none)",
+    "aixml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"aitasks_container\" deletable=\"false\" x=\"40\" y=\"40\"><next><block type=\"attack_on_collide\"><field name=\"speed\">1.2</field><field name=\"longmemory\">FALSE</field><field name=\"condition\">null,null</field><next><block type=\"wander\"><field name=\"speed\">1</field><field name=\"condition\">null,null</field><next><block type=\"attack_action\"><field name=\"callhelp\">FALSE</field><field name=\"condition\">null,null</field><next><block type=\"look_around\"><field name=\"condition\">null,null</field><next><block type=\"swim_in_water\"><field name=\"condition\">null,null</field></block></next></block></next></block></next></block></next></block></next></block></xml>",
+    "breedable": false,
+    "tameable": false,
+    "breedTriggerItems": [],
+    "ranged": false,
+    "rangedAttackItem": {
+      "value": ""
+    },
+    "rangedItemType": "Default item",
+    "spawnThisMob": true,
+    "doesDespawnWhenIdle": true,
+    "spawningProbability": 10,
+    "mobSpawningType": "creature",
+    "minNumberOfMobsPerGroup": 1,
+    "maxNumberOfMobsPerGroup": 8,
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:EnviroBigTaiga"
+      },
+      {
+        "value": "CUSTOM:EnviroBigTaigaHills"
+      },
+      {
+        "value": "CUSTOM:EnviroBiome"
+      },
+      {
+        "value": "CUSTOM:EnviroBirchForest"
+      },
+      {
+        "value": "CUSTOM:EnviroBirchForestHills"
+      },
+      {
+        "value": "CUSTOM:EnviroDeepOcean"
+      },
+      {
+        "value": "CUSTOM:EnviroDesert"
+      },
+      {
+        "value": "CUSTOM:EnviroFlower"
+      },
+      {
+        "value": "CUSTOM:EnviroFlowerForest"
+      },
+      {
+        "value": "CUSTOM:EnviroFlowerForestHills"
+      },
+      {
+        "value": "CUSTOM:EnviroFlowerHills"
+      },
+      {
+        "value": "CUSTOM:EnviroForest"
+      },
+      {
+        "value": "CUSTOM:EnviroForestHills"
+      },
+      {
+        "value": "CUSTOM:EnviroHills"
+      },
+      {
+        "value": "CUSTOM:EnviroIcy"
+      },
+      {
+        "value": "CUSTOM:EnviroIcyHills"
+      },
+      {
+        "value": "CUSTOM:EnviroJungle"
+      },
+      {
+        "value": "CUSTOM:EnviroJungleHills"
+      },
+      {
+        "value": "CUSTOM:EnviroLands"
+      },
+      {
+        "value": "CUSTOM:EnviroLandsForest"
+      },
+      {
+        "value": "CUSTOM:EnviroLandsForestHills"
+      },
+      {
+        "value": "CUSTOM:EnviroLandsHills"
+      },
+      {
+        "value": "CUSTOM:EnviroMountains"
+      },
+      {
+        "value": "CUSTOM:EnviroOcean"
+      },
+      {
+        "value": "CUSTOM:EnviroPineTaiga"
+      },
+      {
+        "value": "CUSTOM:EnviroPineTaigaHills"
+      },
+      {
+        "value": "CUSTOM:EnviroSavanna"
+      },
+      {
+        "value": "CUSTOM:EnviroSwamp"
+      },
+      {
+        "value": "CUSTOM:EnviroSwampHills"
+      },
+      {
+        "value": "CUSTOM:EnviroTaiga"
+      },
+      {
+        "value": "CUSTOM:EnviroTaigaHills"
+      }
+    ],
+    "spawnInDungeons": false
+  }
+}

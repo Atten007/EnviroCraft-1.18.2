@@ -1,0 +1,17 @@
+{
+  "_fv": 25,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "envirosong",
+    "name": "Enviro Song",
+    "description": "The Enviro Song for the EnviroCraft Mod!",
+    "creativeTab": {
+      "value": "CUSTOM:Envirocraft"
+    },
+    "music": {
+      "value": "music.under_water"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

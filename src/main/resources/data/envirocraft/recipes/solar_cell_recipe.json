@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "envirocraft:enviro"
+    },
+    {
+      "item": "envirocraft:wind_dust"
+    },
+    {
+      "item": "envirocraft:ocean_ingot"
+    },
+    {
+      "item": "envirocraft:solar_shard"
+    },
+    {
+      "item": "envirocraft:energy"
+    }
+  ],
+  "result": {
+    "item": "envirocraft:solar_cell",
+    "count": 1
+  }
+}

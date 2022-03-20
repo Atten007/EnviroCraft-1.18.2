@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "envirocraft:wind_dust"
+    },
+    {
+      "item": "envirocraft:wind_block"
+    },
+    {
+      "item": "envirocraft:wind_dust"
+    },
+    {
+      "item": "envirocraft:wind_dust"
+    },
+    {
+      "item": "envirocraft:wind_dust"
+    },
+    {
+      "item": "envirocraft:wind_block"
+    },
+    {
+      "item": "envirocraft:wind_dust"
+    }
+  ],
+  "result": {
+    "item": "envirocraft:power_box",
+    "count": 1
+  }
+}

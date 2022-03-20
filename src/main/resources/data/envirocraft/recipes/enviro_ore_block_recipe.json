@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "envirocraft:enviro"
+    },
+    "1": {
+      "item": "envirocraft:enviro"
+    },
+    "2": {
+      "item": "envirocraft:enviro"
+    },
+    "3": {
+      "item": "envirocraft:enviro"
+    },
+    "4": {
+      "item": "envirocraft:enviro"
+    },
+    "5": {
+      "item": "envirocraft:enviro"
+    },
+    "6": {
+      "item": "envirocraft:enviro"
+    },
+    "7": {
+      "item": "envirocraft:enviro"
+    },
+    "8": {
+      "item": "envirocraft:enviro"
+    }
+  },
+  "result": {
+    "item": "envirocraft:enviro_block",
+    "count": 1
+  }
+}

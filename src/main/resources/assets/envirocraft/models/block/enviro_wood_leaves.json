@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "envirocraft:blocks/envirowood_leaves",
+    "particle": "envirocraft:blocks/envirowood_leaves"
+  }
+}

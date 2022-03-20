@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "envirocraft:energy_wood_log",
+    "envirocraft:energy_wood_wood"
+  ]
+}

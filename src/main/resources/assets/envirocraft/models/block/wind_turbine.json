@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "envirocraft:blocks/windturbine1",
+    "up": "envirocraft:blocks/windturbine1",
+    "north": "envirocraft:blocks/windturbine0",
+    "east": "envirocraft:blocks/windturbine1",
+    "south": "envirocraft:blocks/windturbine1",
+    "west": "envirocraft:blocks/windturbine1",
+    "particle": "envirocraft:blocks/windturbine1"
+  }
+}

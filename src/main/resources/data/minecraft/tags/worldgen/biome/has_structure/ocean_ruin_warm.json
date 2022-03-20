@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "envirocraft:enviro_hills",
+    "envirocraft:enviro_desert",
+    "envirocraft:enviro_forest_hills",
+    "envirocraft:enviro_jungle_hills",
+    "envirocraft:enviro_savanna",
+    "envirocraft:enviro_lands",
+    "envirocraft:enviro_lands_forest",
+    "envirocraft:enviro_lands_hills",
+    "envirocraft:enviro_lands_forest_hills",
+    "envirocraft:enviro_wooded_hills"
+  ]
+}

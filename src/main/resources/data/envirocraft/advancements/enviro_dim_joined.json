@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "enviro_dim_joined": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "envirocraft:enviro_dim"
+      }
+    }
+  }
+}

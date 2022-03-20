@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "envirocraft:enviro_biome",
+    "envirocraft:enviro_forest",
+    "envirocraft:enviro_icy",
+    "envirocraft:enviro_swamp",
+    "envirocraft:enviro_mountains",
+    "envirocraft:enviro_taiga",
+    "envirocraft:enviro_big_taiga",
+    "envirocraft:enviro_big_taiga_hills",
+    "envirocraft:enviro_icy_hills",
+    "envirocraft:enviro_pine_taiga",
+    "envirocraft:enviro_pine_taiga_hills",
+    "envirocraft:enviro_birch_forest",
+    "envirocraft:enviro_flower_forest",
+    "envirocraft:enviro_flower_forest_hills",
+    "envirocraft:enviro_flower_hills",
+    "envirocraft:enviro_ocean",
+    "envirocraft:enviro_deep_ocean",
+    "envirocraft:enviro_flower",
+    "envirocraft:enviro_wooded_mountains",
+    "envirocraft:enviro_tundra",
+    "envirocraft:enviro_tundra_hills",
+    "envirocraft:enviro_lake",
+    "envirocraft:enviro_wooded",
+    "envirocraft:enviro_ocean_lukewarm"
+  ]
+}

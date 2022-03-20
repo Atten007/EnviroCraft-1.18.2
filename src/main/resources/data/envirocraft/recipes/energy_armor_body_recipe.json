@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "envirocraft:energy"
+    },
+    "2": {
+      "item": "envirocraft:energy"
+    },
+    "3": {
+      "item": "envirocraft:energy"
+    },
+    "4": {
+      "item": "envirocraft:energy"
+    },
+    "5": {
+      "item": "envirocraft:energy"
+    },
+    "6": {
+      "item": "envirocraft:energy"
+    },
+    "7": {
+      "item": "envirocraft:energy"
+    },
+    "8": {
+      "item": "envirocraft:energy"
+    }
+  },
+  "result": {
+    "item": "envirocraft:energy_armor_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "envirocraft:energy_block"
+    }
+  ],
+  "result": {
+    "item": "envirocraft:energy",
+    "count": 9
+  }
+}

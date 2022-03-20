@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "envirocraft:blocks/envirowood_planks",
+    "particle": "envirocraft:blocks/envirowood_planks"
+  }
+}

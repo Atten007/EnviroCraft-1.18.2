@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "envirocraft:blocks/wind_planks",
+    "particle": "envirocraft:blocks/wind_planks"
+  }
+}

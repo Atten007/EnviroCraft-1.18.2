@@ -1,0 +1,75 @@
+{
+  "_fv": 25,
+  "_type": "structure",
+  "definition": {
+    "structure": "ocean_generator_room",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 100000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface",
+      "CUSTOM:EnviroDim"
+    ],
+    "restrictionBlocks": [],
+    "restrictionBiomes": [
+      {
+        "value": "cold_ocean"
+      },
+      {
+        "value": "deep_cold_ocean"
+      },
+      {
+        "value": "deep_frozen_ocean"
+      },
+      {
+        "value": "deep_lukewarm_ocean"
+      },
+      {
+        "value": "deep_ocean"
+      },
+      {
+        "value": "deep_warm_ocean"
+      },
+      {
+        "value": "frozen_ocean"
+      },
+      {
+        "value": "lukewarm_ocean"
+      },
+      {
+        "value": "ocean"
+      },
+      {
+        "value": "warm_ocean"
+      },
+      {
+        "value": "CUSTOM:EnviroDeepOcean"
+      },
+      {
+        "value": "CUSTOM:EnviroOcean"
+      },
+      {
+        "value": "CUSTOM:EnviroOceanCold"
+      },
+      {
+        "value": "CUSTOM:EnviroOceanFrozen"
+      },
+      {
+        "value": "CUSTOM:EnviroOceanLukewarm"
+      },
+      {
+        "value": "CUSTOM:EnviroOceanWarm"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK",
+    "onStructureGenerated": {
+      "name": "OceanGeneratorRoomAufStrukturinstanzGeneriert"
+    }
+  }
+}

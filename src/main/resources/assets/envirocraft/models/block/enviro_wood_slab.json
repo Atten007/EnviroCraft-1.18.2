@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "envirocraft:blocks/envirowood_planks",
+    "top": "envirocraft:blocks/envirowood_planks",
+    "side": "envirocraft:blocks/envirowood_planks"
+  }
+}

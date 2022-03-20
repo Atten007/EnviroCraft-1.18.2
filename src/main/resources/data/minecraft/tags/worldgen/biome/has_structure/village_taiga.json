@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "envirocraft:enviro_taiga",
+    "envirocraft:enviro_big_taiga",
+    "envirocraft:enviro_big_taiga_hills",
+    "envirocraft:enviro_pine_taiga",
+    "envirocraft:enviro_pine_taiga_hills",
+    "envirocraft:enviro_tundra",
+    "envirocraft:enviro_tundra_hills"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "_fv": 25,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:EnergyWoodWood"
+      },
+      {
+        "value": "CUSTOM:EnergyWoodLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "energywood_log",
+    "namespace": "forge"
+  }
+}

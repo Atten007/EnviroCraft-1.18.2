@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "envirocraft:enviro_hills",
+    "envirocraft:enviro_forest",
+    "envirocraft:enviro_desert",
+    "envirocraft:enviro_forest_hills",
+    "envirocraft:enviro_icy",
+    "envirocraft:enviro_jungle",
+    "envirocraft:enviro_jungle_hills",
+    "envirocraft:enviro_mountains",
+    "envirocraft:enviro_savanna",
+    "envirocraft:enviro_icy_hills",
+    "envirocraft:enviro_birch_forest",
+    "envirocraft:enviro_flower_forest",
+    "envirocraft:enviro_flower_forest_hills",
+    "envirocraft:enviro_flower_hills",
+    "envirocraft:enviro_lands",
+    "envirocraft:enviro_lands_forest",
+    "envirocraft:enviro_lands_hills",
+    "envirocraft:enviro_lands_forest_hills",
+    "envirocraft:enviro_flower",
+    "envirocraft:enviro_wooded_mountains",
+    "envirocraft:enviro_lake",
+    "envirocraft:enviro_wooded",
+    "envirocraft:enviro_wooded_hills"
+  ]
+}

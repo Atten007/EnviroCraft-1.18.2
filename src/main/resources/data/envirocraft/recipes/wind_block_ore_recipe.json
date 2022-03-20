@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "envirocraft:wind_block"
+    }
+  ],
+  "result": {
+    "item": "envirocraft:wind_dust",
+    "count": 9
+  }
+}

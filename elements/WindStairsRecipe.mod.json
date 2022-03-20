@@ -1,0 +1,46 @@
+{
+  "_fv": 25,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:WindPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:WindPlanks"
+      },
+      {
+        "value": "CUSTOM:WindPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:WindPlanks"
+      },
+      {
+        "value": "CUSTOM:WindPlanks"
+      },
+      {
+        "value": "CUSTOM:WindPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:WindStairs"
+    },
+    "name": "wind_stairs_recipe",
+    "namespace": "mod"
+  }
+}
